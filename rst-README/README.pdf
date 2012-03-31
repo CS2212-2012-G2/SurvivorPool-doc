@@ -1,0 +1,4281 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 28 0 R
+ /F4 29 0 R
+ /F5 34 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 474.0236
+ 0 ]
+ /Rect [ 62.69291
+ 687.7736
+ 197.1829
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 474.0236
+ 0 ]
+ /Rect [ 527.0227
+ 687.7736
+ 532.5827
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Rect [ 82.69291
+ 669.7736
+ 192.1729
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Rect [ 527.0227
+ 669.7736
+ 532.5827
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 411.0236
+ 0 ]
+ /Rect [ 102.6929
+ 651.7736
+ 159.4029
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 411.0236
+ 0 ]
+ /Rect [ 527.0227
+ 651.7736
+ 532.5827
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 311.0236
+ 0 ]
+ /Rect [ 102.6929
+ 633.7736
+ 225.5329
+ 645.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 311.0236
+ 0 ]
+ /Rect [ 527.0227
+ 633.7736
+ 532.5827
+ 645.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 615.7736
+ 181.6129
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 615.7736
+ 532.5827
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 735.0236
+ 0 ]
+ /Rect [ 102.6929
+ 597.7736
+ 159.4029
+ 609.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 735.0236
+ 0 ]
+ /Rect [ 527.0227
+ 597.7736
+ 532.5827
+ 609.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 533.0236
+ 0 ]
+ /Rect [ 122.6929
+ 579.7736
+ 300.5229
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 533.0236
+ 0 ]
+ /Rect [ 527.0227
+ 579.7736
+ 532.5827
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 407.0236
+ 0 ]
+ /Rect [ 122.6929
+ 561.7736
+ 287.7529
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 407.0236
+ 0 ]
+ /Rect [ 527.0227
+ 561.7736
+ 532.5827
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 287.0236
+ 0 ]
+ /Rect [ 102.6929
+ 543.7736
+ 225.5329
+ 555.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 287.0236
+ 0 ]
+ /Rect [ 527.0227
+ 543.7736
+ 532.5827
+ 555.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Rect [ 62.69291
+ 525.7736
+ 158.2829
+ 537.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Rect [ 527.0227
+ 525.7736
+ 532.5827
+ 537.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Rect [ 82.69291
+ 507.7736
+ 165.5129
+ 519.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Rect [ 527.0227
+ 507.7736
+ 532.5827
+ 519.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 409.8661
+ 0 ]
+ /Rect [ 82.69291
+ 489.7736
+ 165.5129
+ 501.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 409.8661
+ 0 ]
+ /Rect [ 527.0227
+ 489.7736
+ 532.5827
+ 501.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+28 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+29 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER25': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.oracle.com/technetwork/java/javase/downloads/jdk-7u3-download-1501626.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 154.3829
+ 323.7736
+ 183.8429
+ 335.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+31 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 30 0 R ]
+ /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+32 0 obj
+% Page dictionary
+<< /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 409.0236
+ 0 ]
+ /Rect [ 315.0329
+ 684.7736
+ 480.0929
+ 696.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F5': class PDFType1Font 
+34 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 535.0236
+ 0 ]
+ /Rect [ 124.6029
+ 585.7736
+ 305.2129
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+36 0 obj
+% Page dictionary
+<< /Annots [ 33 0 R
+ 35 0 R ]
+ /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+37 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 535.0236
+ 0 ]
+ /Rect [ 129.2629
+ 453.7736
+ 307.0929
+ 465.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+38 0 obj
+% Page dictionary
+<< /Annots [ 37 0 R ]
+ /Contents 60 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+39 0 obj
+% Page dictionary
+<< /Contents 61 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+40 0 obj
+% Page dictionary
+<< /Contents 62 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 56 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R41': class PDFCatalog 
+41 0 obj
+% Document Root
+<< /Outlines 43 0 R
+ /PageLabels 63 0 R
+ /PageMode /UseNone
+ /Pages 56 0 R
+ /Type /Catalog >>
+endobj
+% 'R42': class PDFInfo 
+42 0 obj
+<< /Author ()
+ /CreationDate (D:20120331190906+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (CS2212 Group 2 - SurvivorPool) >>
+endobj
+% 'R43': class PDFOutlines 
+43 0 obj
+<< /Count 17
+ /First 44 0 R
+ /Last 53 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+44 0 obj
+<< /Count 8
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 474.0236
+ 0 ]
+ /First 45 0 R
+ /Last 48 0 R
+ /Next 53 0 R
+ /Parent 43 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000F\000i\000n\000a\000l\000 \000A\000c\000c\000e\000p\000t\000a\000n\000c\000e\000 \000T\000e\000s\000t\000i\000n\000g) >>
+endobj
+% 'Outline.13.0': class OutlineEntryObject 
+45 0 obj
+<< /Count 2
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /First 46 0 R
+ /Last 47 0 R
+ /Next 48 0 R
+ /Parent 44 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000A\000d\000m\000i\000n\000i\000s\000t\000r\000a\000t\000o\000r\000 \000C\000l\000i\000e\000n\000t) >>
+endobj
+% 'Outline.14.0': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 411.0236
+ 0 ]
+ /Next 47 0 R
+ /Parent 45 0 R
+ /Title (\376\377\0001\000.\0001\000.\0001\000\240\000\240\000\240\000S\000e\000t\000u\000p) >>
+endobj
+% 'Outline.14.1': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 311.0236
+ 0 ]
+ /Parent 45 0 R
+ /Prev 46 0 R
+ /Title (\376\377\0001\000.\0001\000.\0002\000\240\000\240\000\240\000S\000p\000e\000c\000i\000f\000i\000c\000a\000t\000i\000o\000n\000 \000T\000e\000s\000t\000i\000n\000g) >>
+endobj
+% 'Outline.13.1': class OutlineEntryObject 
+48 0 obj
+<< /Count 4
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 49 0 R
+ /Last 52 0 R
+ /Parent 44 0 R
+ /Prev 45 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000B\000l\000a\000c\000k\000B\000e\000r\000r\000y\000 \000C\000l\000i\000e\000n\000t) >>
+endobj
+% 'Outline.15.0': class OutlineEntryObject 
+49 0 obj
+<< /Count 2
+ /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 735.0236
+ 0 ]
+ /First 50 0 R
+ /Last 51 0 R
+ /Next 52 0 R
+ /Parent 48 0 R
+ /Title (\376\377\0001\000.\0002\000.\0001\000\240\000\240\000\240\000S\000e\000t\000u\000p) >>
+endobj
+% 'Outline.16.0': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 533.0236
+ 0 ]
+ /Next 51 0 R
+ /Parent 49 0 R
+ /Title (Setup SD Card for BlackBerry Simulator) >>
+endobj
+% 'Outline.16.1': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 407.0236
+ 0 ]
+ /Parent 49 0 R
+ /Prev 50 0 R
+ /Title (Install BlackBerry OS 7.1.0 in Eclipse) >>
+endobj
+% 'Outline.15.1': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 36 0 R
+ /XYZ
+ 62.69291
+ 287.0236
+ 0 ]
+ /Parent 48 0 R
+ /Prev 49 0 R
+ /Title (\376\377\0001\000.\0002\000.\0002\000\240\000\240\000\240\000S\000p\000e\000c\000i\000f\000i\000c\000a\000t\000i\000o\000n\000 \000T\000e\000s\000t\000i\000n\000g) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+53 0 obj
+<< /Count 2
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /First 54 0 R
+ /Last 55 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000O\000l\000d\000 \000S\000u\000b\000m\000i\000s\000s\000i\000o\000n\000s) >>
+endobj
+% 'Outline.17.0': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Next 55 0 R
+ /Parent 53 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000A\000s\000s\000i\000g\000n\000m\000e\000n\000t\000 \0003) >>
+endobj
+% 'Outline.17.1': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 409.8661
+ 0 ]
+ /Parent 53 0 R
+ /Prev 54 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000A\000s\000s\000i\000g\000n\000m\000e\000n\000t\000 \0002) >>
+endobj
+% 'R56': class PDFPages 
+56 0 obj
+% page tree
+<< /Count 6
+ /Kids [ 31 0 R
+ 32 0 R
+ 36 0 R
+ 38 0 R
+ 39 0 R
+ 40 0 R ]
+ /Type /Pages >>
+endobj
+% 'R57': class PDFStream 
+57 0 obj
+% page stream
+<< /Length 8187 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 86.56488 0 Td (CS2212 Group 2 - SurvivorPool) Tj T* -86.56488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Table of Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Final Acceptance Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Administrator Client) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1.1   Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1.2   Specification Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   BlackBerry Client) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2.1   Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup SD Card for BlackBerry Simulator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Install BlackBerry OS 7.1.0 in Eclipse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2.2   Specification Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Old Submissions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Assignment 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Assignment 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Final Acceptance Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Administrator Client) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (1.1.1   Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Run the jar file with: ) Tj /F4 10 Tf (java -jar Group2Standalone.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On first run, there will be no data and it will initialize to empty) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+Q
+q
+1 0 0 1 62.69291 338.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Note:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This _requires_ ) Tj 0 0 .501961 rg (Java 7) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (1.1.2   Specification Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (12.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720574 Tw (The administrative user must be able to start the game \(at this point no new players or contestants) Tj T* 0 Tw .129986 Tw (can be added\). At this point the administrative user should also enter the amount of money that each) Tj T* 0 Tw (player is going to pitch in \(for example each player might be pitching in 5 dollars or 1 dollar\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Upon clicking Start Season \(in the General Panel\) you will be prompted for the bet amount) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (15.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.529147 Tw (The administrative user must be able to add/modify/delete bonus questions for each round/week.) Tj T* 0 Tw .391751 Tw (Each bonus question must be 1 to 200 characters long the question can be either multiple choice or) Tj T* 0 Tw .558221 Tw (short answer. The answer must be 1 to 200 characters. The administrative user must be able to list) Tj T* 0 Tw (all the bonus questions in order by round/week.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This information can be found within the "Bonus" tab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 152.0236 cm
+Q
+q
+1 0 0 1 62.69291 98.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (16.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .359269 Tw (The administrative user must be able to change which contestant was eliminated each week, incase) Tj T* 0 Tw .593984 Tw (he/she made a mistake. However the player can NOT change who he/she picked to eliminated one) Tj T* 0 Tw 1.11061 Tw (the round has passed. If the admin user change the contestant that was eliminated for a previous) Tj T* 0 Tw (week, then the standings will have to be updated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R58': class PDFStream 
+58 0 obj
+% page stream
+<< /Length 10408 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 47 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .83528 Tw (When changing a choice, go to the contestant tab, and click open the combobox to the left of) Tj T* 0 Tw 1.541412 Tw (the "set status" button. This allows you to choose \(after selecting the contestant in question) Tj T* 0 Tw .533988 Tw (within the display table\) what week you'd like them to be cast off on. If it is the current week, it) Tj T* 0 Tw .532209 Tw (proceeds as normal, but if it's a previous week, you will be asked if you would like to continue,) Tj T* 0 Tw (as it would invalidate the game.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (17.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.727356 Tw (If a player forgets to pick who will be eliminated in a week, then he/she will be given a random) Tj T* 0 Tw .79936 Tw (contestant as his/her pick for that week \(thus some weeks the player might get points even though) Tj T* 0 Tw .159985 Tw (he/she didn't pick anyone, if the random pick is the contestant who was eliminated\). This also means) Tj T* 0 Tw (that a player who drops out \(stops picking altogether\) might end up winning the pool.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.139269 Tw (This is generated when there are no picks select upon clicking "advance week" within the) Tj T* 0 Tw (general tab) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (18.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Players pick which of the 3 remaining contestants will win. If they pick correctly they get 40 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.674983 Tw (This is generated within the backend after the final week's advancement. This can be seen) Tj T* 0 Tw (within the player tab's table, which displays player scores) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (19.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .134104 Tw (Every week players will say who they think will be eliminated. If the player pick the correct contestant) Tj T* 0 Tw (who will be eliminated, they get 20 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 18.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (20.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .105227 Tw (A player can change who they think will win the whole game at any point, then they get 2 points * the) Tj T* 0 Tw (number of remaining contestants) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 18.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (21.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.389431 Tw (Stage 2, during the last week, when there are only 3 contestants left Players pick which of the 3) Tj T* 0 Tw (remaining contestants will win. If they pick correctly they get 40 points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 18.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (22.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .739987 Tw (Stage 2, during the last week, when there are only 3 contestants left. Players get the points for the) Tj T* 0 Tw (overall winner if they picked correctly in an early round) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 18.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (23.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .162927 Tw (Stage 2, during the last week, when there are only 3 contestants leftPlayers get the points from each) Tj T* 0 Tw (round for picking who would be eliminated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 18.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (24.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.60561 Tw (All Stages, at any point during the game: At any point during the game, players may answer) Tj T* 0 Tw .67284 Tw (additional bonus questions for bonus marks, for example "Who wins immunity this week?", or "How) Tj T* 0 Tw 1.018555 Tw (many people received votes during tribal counsel this week?". Each correct answer to each bonus) Tj T* 0 Tw (question is awarded 10 points.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 18.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (25.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .688221 Tw (Assign a first place player, a second place player and third place player. The first place player gets) Tj T* 0 Tw 1.078876 Tw (60% of the amount of money, the second place player gets 30% of the amount of money and the) Tj T* 0 Tw (third place person gets 10% of the amount of money.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .466651 Tw (Generated in backend upon advancing to the end of the game. This information is displayed in) Tj T* 0 Tw (the general tab upon completion of the game under the "winners" panel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (26.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .732093 Tw (At any time the admin user should be able to get all the players picks for a given week/round. This) Tj T* 0 Tw .432765 Tw (would normally be done by writing to the internet but because of issues with FTP, you can read and) Tj T* 0 Tw .779488 Tw (write to the C: drive \(both parts of the project will be tested on the same machine with the same c:) Tj T* 0 Tw (drive\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Backend of overall program.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R59': class PDFStream 
+59 0 obj
+% page stream
+<< /Length 10718 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   BlackBerry Client) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (1.2.1   Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (BlackBerry OS version used is ) Tj /F2 10 Tf (7.1.0) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Should you have an older version of BlackBerry OS, see ) Tj 0 0 .501961 rg (Install BlackBerry OS 7.1.0 in Eclipse) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Create a Blackberry project called ) Tj /F5 10 Tf (SurvivorPoolClient ) Tj /F1 10 Tf (in Eclipse.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Delete the ) Tj /F4 10 Tf (src/ ) Tj /F1 10 Tf (folder in the project and copy ) Tj /F5 10 Tf (all ) Tj /F1 10 Tf (the files from the client jar file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Run BlackBerryApp.java) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 2.74561 Tw 12 TL /F1 10 Tf 0 0 0 rg (Map the SD card to the folder that contains ) Tj /F4 10 Tf (res/ ) Tj /F1 10 Tf (folder for the Administrator client, not the) Tj T* 0 Tw .569983 Tw (BlackBerry client side. The res folder is found in the same folder as the ) Tj /F4 10 Tf (Group2Standalone.jar) Tj T* 0 Tw /F1 10 Tf (file. See ) Tj 0 0 .501961 rg (Setup SD Card for BlackBerry Simulator ) Tj 0 0 0 rg (for more detailed instructions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Note:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .537485 Tw (The season must be started \(Administrator side\) to be able to log into the BlackBerry client \(warning) Tj T* 0 Tw (shows up\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Setup SD Card for BlackBerry Simulator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.89811 Tw (To get BlackBerry to share the data files from the Administrator Client, the following needs to be) Tj T* 0 Tw (completed:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In the Blackberry emulator, click on Simulate-) Tj (>) Tj (Change SD Card) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add the folder that contains the folder 'res') Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Click on remount SD Card on Startup.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 431.0236 cm
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hit the harddrive + button, and data persistence should work.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Install BlackBerry OS 7.1.0 in Eclipse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+Q
+q
+1 0 0 1 62.69291 371.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Open Eclipse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Navigate to Help -) Tj (> Install New Software) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 347.0236 cm
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Select the BlackBerry software repository) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 329.0236 cm
+Q
+q
+1 0 0 1 62.69291 317.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Select BlackBerry OS 7.1.0 from the source list and install) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 311.0236 cm
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Restart Eclipse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (1.2.2   Specification Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Enter his/her userid) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Starting the app will show the login screen. Enter user id and hit ) Tj /F5 10 Tf (log in) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 224.0236 cm
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See the current standings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In the main menu, click on ) Tj /F5 10 Tf (view standings) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pick which contestant will be the ultimate winner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In the main menu, click on ) Tj /F5 10 Tf (Make your vote) Tj /F1 10 Tf (, then ) Tj /F5 10 Tf (Vote for Ultimate) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 152.0236 cm
+Q
+q
+1 0 0 1 62.69291 104.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See which contestants are still remaining, which have been eliminated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In the main menu, click on ) Tj /F5 10 Tf (Make your vote) Tj /F1 10 Tf (, then any of the options) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The values in the table show all the contestants and if they have been casted off or not) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 98.02362 cm
+Q
+q
+1 0 0 1 62.69291 80.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pick which contestant he/she thinks will be eliminated this week/round) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R60': class PDFStream 
+60 0 obj
+% page stream
+<< /Length 10253 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 -1 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (In the main menu, click on ) Tj /F5 10 Tf (Make your vote) Tj /F1 10 Tf (, then ) Tj /F5 10 Tf (Vote for this week) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See the bonus questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .47311 Tw 12 TL /F1 10 Tf 0 0 0 rg (In the main menu, click on ) Tj /F5 10 Tf (Bonus Questions) Tj /F1 10 Tf (. Use the ) Tj /F5 10 Tf (prev ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (next ) Tj /F1 10 Tf (buttons to switch between) Tj T* 0 Tw (questions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Answer the bonus questions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See 1.6, but either select answer from drop down box, or enter in value in the answer text field) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Hit ) Tj /F5 10 Tf (send ) Tj /F1 10 Tf (to submit the answer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.114651 Tw (During the final week, pick from the remaining 3 contestants, which contestants will win the whole) Tj T* 0 Tw (game.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (See 1.5, except instead of Make your vote, it will say ) Tj /F5 10 Tf (Vote For Finals) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .263516 Tw (Upload his/her picks to the internet,the very first week, do NOT allow the user to upload his/her pick,) Tj T* 0 Tw (unless the user picks an overall winner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .712488 Tw 12 TL /F1 10 Tf 0 0 0 rg (When the user hits ) Tj /F5 10 Tf (exit) Tj /F1 10 Tf (, or ) Tj /F5 10 Tf (log out ) Tj /F1 10 Tf (a prompt is given to save. If user has not picked an overall) Tj T* 0 Tw (winner in the first week, it alerts user to select an ultimate winner.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .752339 Tw (When all the players \(users\) have been added by the administrative user and the game is about to) Tj T* 0 Tw .688221 Tw (start, the blackberry side must download all the user IDs to allow the player to logon and somehow) Tj T* 0 Tw .217765 Tw (store those userids on the BlackBerry. There must also be a reset that wipes clean all the userids so) Tj T* 0 Tw 2.026457 Tw (that it could be reloaded again. This must be persistent \(the user should only have to load the) Tj T* 0 Tw (players once\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (See ) Tj 0 0 .501961 rg (Setup SD Card for BlackBerry Simulator) Tj 0 0 0 rg (. One can log out and log back in as any user.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Old Submissions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Assignment 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .887984 Tw (Up until the point that the game starts the administrative user should be able to change/add/delete) Tj T* 0 Tw 2.437674 Tw (contestants, change names, tribes, unique ids and pictures. The admin user should always be) Tj T* 0 Tw (allowed to change the tribe name, even after the game has started.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 93 cm
+Q
+q
+1 0 0 1 23 93 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 86 Tm 2.709318 Tw 12 TL /F1 10 Tf 0 0 0 rg (After starting a new season \(File > Reset Season\), click the Contestant tab to open the) Tj T* 0 Tw 1.254983 Tw (Contestant section of the admin application. To add a contestant, fill out the correct required) Tj T* 0 Tw .586235 Tw (information \(first, last, id, picture: click the picture box and find the file\),and then hit "add new".) Tj T* 0 Tw 2.561984 Tw (Since the season hasn't yet started, you are able to edit an already made contestant by) Tj T* 0 Tw .08186 Tw (selecting the contestant's row in the table, editing the data in the label boxes, and hitting "save".) Tj T* 0 Tw 1.700574 Tw (To start the season, go to the "general" tab, and hit the "start season button". Now, all the) Tj T* 0 Tw .838221 Tw (admin can edit is the tribe names, which was always avaliable to change at the bottom of the) Tj T* 0 Tw (general tab, by just editing the field of your choosing and hitting "change tribe name".) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.077318 Tw (The administrative user should be able to add office workers \(players\) until the game starts. Once) Tj T* 0 Tw 1.876235 Tw (the game starts the administrative user can not add or delete any more players but he/she can) Tj T* 0 Tw (modify players \(except for the userid\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (see 5, except instead of the contestant tab, its the player tab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .001567 Tw (The adminstrative user must be able to list all the contestants by unique id or first name, or last name) Tj T* 0 Tw (or team or by elimination round/order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.838651 Tw (Follow the same sets as 5 to create contestants. You can sort contestants within the table) Tj T* 0 Tw (within the contestants tab by clicking the required column header) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (11.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .391988 Tw (The administrative user must be able to list all the players by first name or last name or userid or by) Tj T* 0 Tw (total score so far.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R61': class PDFStream 
+61 0 obj
+% page stream
+<< /Length 9919 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 11 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.19881 Tw (Follow the same sets as 5 to create players. You can sort players within the table within the) Tj T* 0 Tw (players tab by clicking the required column header) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (12.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720574 Tw (The administrative user must be able to start the game \(at this point no new players or contestants) Tj T* 0 Tw .129986 Tw (can be added\). At this point the administrative user should also enter the amount of money that each) Tj T* 0 Tw (player is going to pitch in \(for example each player might be pitching in 5 dollars or 1 dollar\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .99311 Tw (As discussed in #5, once the required amount of contestants are added, the admin is able to) Tj T* 0 Tw 1.312485 Tw (start the season at the bottom of the general tab. After pressing the "start season" button, a) Tj T* 0 Tw (pop-up asks for your required weekly bet amount.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (13.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.818651 Tw (The administrative user must be able display the standings for all the players \(which player has) Tj T* 0 Tw (which score\). This could be displayed as an HTML web page or within the program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is included in the requirements for 11.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (14.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.98784 Tw (The administrative user must be able to indicate for each round/week, who was eliminated. For) Tj T* 0 Tw .604431 Tw (testing purposes, the administrative user can do this at any time \(they don't have to wait till the end) Tj T* 0 Tw (of the week\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .429984 Tw (When the administrator wants to cast off a contestant, they should start the season, and select) Tj T* 0 Tw .67332 Tw (the contestant from the contestant tab table list, and hit "cast off". To cancel a cast off, just hit) Tj T* 0 Tw (cast off again while selecting the contestant.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+Q
+q
+1 0 0 1 62.69291 523.8661 cm
+Q
+q
+1 0 0 1 62.69291 523.8661 cm
+Q
+q
+1 0 0 1 62.69291 481.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (28.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.357485 Tw (This system must allow the player to: see the current standings \(you could display this within the) Tj T* 0 Tw (blackberry using tables, or you could use the browser to view an html page\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (After logging in, navigate to the standings screen, which will display the standings) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 481.8661 cm
+Q
+q
+1 0 0 1 62.69291 475.8661 cm
+Q
+q
+1 0 0 1 62.69291 475.8661 cm
+Q
+q
+1 0 0 1 62.69291 421.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (31.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.745318 Tw (This system must allow the player to: pick which contestant he/she thinks will be eliminated this) Tj T* 0 Tw (week/round.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .199986 Tw 12 TL /F1 10 Tf 0 0 0 rg (After logging in, navigate to the pick menu) Tj (>) Tj (weekly pick. At the top, the user can select from the) Tj T* 0 Tw (drop down menu what their selection is from the active contestants to vote.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 421.8661 cm
+Q
+q
+1 0 0 1 62.69291 391.8661 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Assignment 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 373.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.a.1 DONE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 355.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.a.2 DONE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 337.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.a.3 DONE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (4.a.4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 72 Tm  T* ET
+q
+1 0 0 1 20 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Admin Data Persistence Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 43 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.99436 Tw (When creating a new season in the admin side, data such as the number of contestants is) Tj T* 0 Tw (generated by the user and output to a data flat file for usage later.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (BB Data Persistence Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.421163 Tw (The Blackberry log in screen reads input from a flat file, userData. It takes data from the file,) Tj T* 0 Tw (extracts the userIDs of all users, and then checks to see if the inputted log in was successful.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 230.8661 cm
+Q
+q
+1 0 0 1 62.69291 230.8661 cm
+Q
+q
+1 0 0 1 62.69291 176.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.558651 Tw (The administrative user must be able to enter the number of Survivor contestants this year. This) Tj T* 0 Tw (number must be greater than or equal to 6 but less than or equal to 15.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .452209 Tw (This is done at the Season Start screen, the data file must NOT be present currently for this to) Tj T* 0 Tw (show.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.8661 cm
+Q
+q
+1 0 0 1 62.69291 86.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .751751 Tw (The administrative user must be able to add the names, first and last of each contestant, unique id) Tj T* 0 Tw 1.04528 Tw (for each contestant and the tribe names of each contestant. The first and last name must be 1-20) Tj T* 0 Tw .07061 Tw (characters long, the unique ID must be 2 characters long, where the characters can only be numbers) Tj T* 0 Tw (or letters, it must be case insensitive. The tribe name must be 1-30 characters long.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.97784 Tw (This can be tested by navigating to the "Player" tab, then adding information and pressing) Tj T* 0 Tw (Save. It is not fully implemented, and bugs exist.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R62': class PDFStream 
+62 0 obj
+% page stream
+<< /Length 8807 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 35 Tm  T* ET
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Add" will add a clean player to the interface) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ("Delete" is _NOT_ functional) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use "Cast Off" to cast a player off) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .626235 Tw (The administrative user should be able to upload a picture for each user. \(For testing purposed just) Tj T* 0 Tw (use any .gif or .jpg of a head shot\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .16061 Tw (Simply click on the picture to add another picture. These pictures have their path saved, but not) Tj T* 0 Tw (their data. ~ Should we be saving the data internally?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.003318 Tw (The last week of Survivor always has 3 contestants, so the system should calculate how many) Tj T* 0 Tw .739431 Tw (weeks the show will run based on the number of contestant and based on the fact that one person) Tj T* 0 Tw (will be voted off each week until there are 3 left. This indicates how many rounds there will be.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is done in the Season Start screen at the begining of the Admin GUI start) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Click on the spinners to change the values, the other will adjust as appropriate.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 495.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 62.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 38.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .099986 Tw (When adding a player, the administrative user must enter Unique userid - this ID should be the same) Tj T* 0 Tw .000988 Tw (as the western userid: first initial, last name up to 6 character and then a number if that first initial and) Tj T* 0 Tw (1-6 characters are already used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 32.15748 cm
+Q
+q
+1 0 0 1 23 32.15748 cm
+Q
+q
+1 0 0 1 23 20.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This will be generated based off first name and last name) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .693318 Tw (Currently we do not display these, but this will be implemented similarly to the Contestants for) Tj T* 0 Tw (showing the data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.8661 cm
+Q
+q
+1 0 0 1 62.69291 447.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (When adding a player, the administrative user must enter First name - 1 to 20 letters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.086098 Tw (Warnings occur if smaller than 1 char, or larger than 20. The player will not be added. ~ this) Tj T* 0 Tw (also works for contestants \(in a cleaner, prettier fashion\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 441.8661 cm
+Q
+q
+1 0 0 1 62.69291 411.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (9.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (When adding a player, the administrative user must enter Last name - 1 to 20 letters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Warnings occur if smaller than 1 char, or larger than 20. The player will not be added.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 405.8661 cm
+Q
+q
+1 0 0 1 62.69291 351.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (10.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.422209 Tw (The adminstrative user must be able to list all the contestants by unique ID or first name, or last) Tj T* 0 Tw (name or team or by elimination round/order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .114983 Tw (Add multiple contestants, click on the table headers. They will sort "lowest to highest" according) Tj T* 0 Tw (to lexographics or int value.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 351.8661 cm
+Q
+q
+1 0 0 1 62.69291 345.8661 cm
+Q
+q
+1 0 0 1 62.69291 345.8661 cm
+Q
+q
+1 0 0 1 62.69291 291.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL .1 0 Td (27.) Tj T* -0.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This system must allow the player to: enter his/her userid) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.283318 Tw (Test by creating users/players and then entering in the desired userID, then press the log in) Tj T* 0 Tw .02436 Tw (button. Valid userIDs will reach the main menu, invalid ones will have their input field cleared for) Tj T* 0 Tw (another log in attempt. Currently taken from the userData flat file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 291.8661 cm
+Q
+ 
+endstream
+endobj
+% 'R63': class PDFPageLabels 
+63 0 obj
+% Document Root
+<< /Nums [ 0
+ 64 0 R
+ 1
+ 65 0 R
+ 2
+ 66 0 R
+ 3
+ 67 0 R
+ 4
+ 68 0 R
+ 5
+ 69 0 R ] >>
+endobj
+% 'R64': class PDFPageLabel 
+64 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R65': class PDFPageLabel 
+65 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R66': class PDFPageLabel 
+66 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R67': class PDFPageLabel 
+67 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R68': class PDFPageLabel 
+68 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R69': class PDFPageLabel 
+69 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+xref
+0 70
+0000000000 65535 f
+0000000113 00000 n
+0000000260 00000 n
+0000000425 00000 n
+0000000613 00000 n
+0000000854 00000 n
+0000001095 00000 n
+0000001336 00000 n
+0000001577 00000 n
+0000001818 00000 n
+0000002059 00000 n
+0000002301 00000 n
+0000002543 00000 n
+0000002786 00000 n
+0000003029 00000 n
+0000003272 00000 n
+0000003515 00000 n
+0000003758 00000 n
+0000004001 00000 n
+0000004244 00000 n
+0000004487 00000 n
+0000004730 00000 n
+0000004973 00000 n
+0000005216 00000 n
+0000005459 00000 n
+0000005702 00000 n
+0000005945 00000 n
+0000006188 00000 n
+0000006417 00000 n
+0000006607 00000 n
+0000006782 00000 n
+0000007072 00000 n
+0000007583 00000 n
+0000007879 00000 n
+0000008108 00000 n
+0000008304 00000 n
+0000008531 00000 n
+0000008857 00000 n
+0000009084 00000 n
+0000009385 00000 n
+0000009665 00000 n
+0000009946 00000 n
+0000010105 00000 n
+0000010382 00000 n
+0000010508 00000 n
+0000010871 00000 n
+0000011224 00000 n
+0000011470 00000 n
+0000011796 00000 n
+0000012134 00000 n
+0000012422 00000 n
+0000012624 00000 n
+0000012826 00000 n
+0000013149 00000 n
+0000013467 00000 n
+0000013738 00000 n
+0000013990 00000 n
+0000014143 00000 n
+0000022429 00000 n
+0000032937 00000 n
+0000043755 00000 n
+0000054108 00000 n
+0000064126 00000 n
+0000073036 00000 n
+0000073194 00000 n
+0000073271 00000 n
+0000073348 00000 n
+0000073425 00000 n
+0000073502 00000 n
+0000073579 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(J%k\363\373-\316e\322x\236\213mZB\216) (J%k\363\373-\316e\322x\236\213mZB\216)] 
+
+ /Info 42 0 R
+ /Root 41 0 R
+ /Size 70 >>
+startxref
+73626
+%%EOF
