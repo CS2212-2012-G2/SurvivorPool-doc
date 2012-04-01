@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+gource --hide mouse \
+       -s 1 \
+       --auto-skip-seconds 0.25 \
+       --file-idle-time 0 \
+       --multi-sampling \
+       -1280x720 \
+       --title $1 \
+       --logo $2 \
+       --stop-at-end \
+       --output-ppm-stream - | \
+       ffmpeg -y -b 600000K -r 60 -f image2pipe -vcodec ppm -i - -vcodec mpeg4 $3
