@@ -2,13 +2,19 @@
 
 
 gource --hide mouse \
-       -s 1 \
-       --auto-skip-seconds 0.25 \
+       -s 2.5 \
+       --auto-skip-seconds 0.5 \
        --file-idle-time 0 \
        --multi-sampling \
-       -1280x720 \
-       --title $1 \
+       -1024x768 \
+       --title "Group 2 2012 - "$1 \
        --logo $2 \
        --stop-at-end \
+       --highlight-users \
+       --highlight-dirs \
+       -r 30 \
        --output-ppm-stream - | \
-       ffmpeg -y -b 600000K -r 60 -f image2pipe -vcodec ppm -i - -vcodec mpeg4 $3
+       ffmpeg -y \
+	  -r 30 -f image2pipe -vcodec ppm -i - \
+	  -i music.mp3 -ab 192k \
+	  -vcodec mpeg4 -sameq $3
