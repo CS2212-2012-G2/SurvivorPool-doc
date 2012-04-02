@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+gource --hide mouse \
+       -s 2.5 \
+       --auto-skip-seconds 0.5 \
+       --file-idle-time 0 \
+       --multi-sampling \
+       -1024x768 \
+       --title "Group 2 2012 - "$1 \
+       --logo $2 \
+       --stop-at-end \
+       --highlight-users \
+       --highlight-dirs \
+       -r 30 \
+       --output-ppm-stream - | \
+       ffmpeg -y \
+	  -r 30 -f image2pipe -vcodec ppm -i - \
+	  -i music.mp3 -ab 192k \
+	  -vcodec mpeg4 -sameq $3

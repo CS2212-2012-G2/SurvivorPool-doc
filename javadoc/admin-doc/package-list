@@ -1,9 +1,10 @@
 admin
-admin.contestanttab
-admin.playertab
-admin.seasoncreate
+admin.panel.bonus
+admin.panel.general
+admin.panel.person
+admin.panel.person.contestant
+admin.panel.person.player
+admin.panel.season
 data
 data.bonus
-data.me.json
-data.me.json.util
-data.me.regexp
+test
