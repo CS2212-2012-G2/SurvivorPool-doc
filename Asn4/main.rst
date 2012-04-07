@@ -1,19 +1,21 @@
-=================================
-  CS2212 Group 2 - SurvivorPool
-=================================
+====================================
+CS2212 Group 2 - SurvivorPool Manual
+====================================
+
+.. table of contents:
 
 .. sectnum:: :depth: 3
 .. contents:: Table of Contents
 
-Final Acceptance Testing
-------------------------
+.. Includes for the manual rst
 
-.. include:: README.admin
+.. include:: admin.rst
 
-.. include:: README.client
+.. include:: client.rst
 
-Old Submissions
----------------
 
-.. include:: README.old
+README File:
+------------
+
+.. include:: README/README.rst
 

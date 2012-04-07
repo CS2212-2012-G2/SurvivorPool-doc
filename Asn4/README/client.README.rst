@@ -1,8 +1,8 @@
 BlackBerry Client
-~~~~~~~~~~~~~~~~~
+=================
 
 Setup
-=====
++++++++++++++++++
 
 BlackBerry OS version used is **7.1.0**.
 
@@ -27,7 +27,7 @@ Should you have an older version of BlackBerry OS, see `Install BlackBerry OS
   BlackBerry client (warning shows up).
 
 Setup SD Card for BlackBerry Simulator
-++++++++++++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To get BlackBerry to share the data files from the Administrator Client, the 
 following needs to be completed:
@@ -41,7 +41,7 @@ following needs to be completed:
 4) Hit the harddrive + button, and data persistence should work.
 
 Install BlackBerry OS 7.1.0 in Eclipse
-++++++++++++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Open Eclipse
 
@@ -54,7 +54,7 @@ Install BlackBerry OS 7.1.0 in Eclipse
 5) Restart Eclipse
 
 Specification Testing
-=====================
+++++++++++++++++++++++++++++++++++++++++++++
 
 1. Enter his/her userid
 

@@ -1,12 +1,18 @@
 Here's some notes when writing RST for our final submission:
 
+Please make lines a MAXIMUM of 80 chars wide, this saves a lot of time.
+
+You MUST adhere to the titling hierarchy. 
+
 Title Hierarchy (use them in order as you go deeper):
 
-1) double ==================
+1) double ================== (only used for main title)
 2) -------------------------
 3) ~~~~~~~~~~~~~~~~~~~~~~~~~
 4) Single ==================
 5) +++++++++++++++++++++++++
+6) ^^^^^^^^^^^^^^^^^^^^^^^^^
+7) #########################
 
 Italics: *word*
 Bold: **word**
@@ -15,6 +21,9 @@ Mono-spaced text: ``some words``
 
 Images:
 http://docutils.sourceforge.net/docs/ref/rst/directives.html#images
+
+Comments:
+http://docutils.sourceforge.net/docs/user/rst/quickref.html#comments
 
 Links (External and Internal): 
 http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets
