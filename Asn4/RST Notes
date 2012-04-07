@@ -1,6 +1,6 @@
 Here's some notes when writing RST for our final submission:
 
-Title Hierarchy:
+Title Hierarchy (use them in order as you go deeper):
 
 1) double ==================
 2) -------------------------
@@ -15,3 +15,15 @@ Mono-spaced text: ``some words``
 
 Images:
 http://docutils.sourceforge.net/docs/ref/rst/directives.html#images
+
+Links (External and Internal): 
+http://docutils.sourceforge.net/docs/user/rst/quickref.html#hyperlink-targets
+
+Figures:
+http://docutils.sourceforge.net/docs/ref/rst/directives.html#figure
+
+Math: (probably not useful here)
+http://docutils.sourceforge.net/docs/ref/rst/directives.html#math
+
+Tables:
+http://docutils.sourceforge.net/docs/user/rst/quickref.html#tables
