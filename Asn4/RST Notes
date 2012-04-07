@@ -1,0 +1,17 @@
+Here's some notes when writing RST for our final submission:
+
+Title Hierarchy:
+
+1) double ==================
+2) -------------------------
+3) ~~~~~~~~~~~~~~~~~~~~~~~~~
+4) Single ==================
+5) +++++++++++++++++++++++++
+
+Italics: *word*
+Bold: **word**
+
+Mono-spaced text: ``some words``
+
+Images:
+http://docutils.sourceforge.net/docs/ref/rst/directives.html#images
