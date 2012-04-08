@@ -1,0 +1,46 @@
+==================
+Creating A Season
+==================
+
+Getting Started
+~~~~~~~~~~~~~~~~
+
+The Create Season Panel
+---------------------------
+
+This is the very first panel you will see as an administrator.  Assuming everything is working properly (and trust us, it is), there should be a few things unique to this panel that you'll notice:
+ 
+ 	1. A spot for you to increase/decrease the number of weeks in this season.
+	2. A spot for you to increase/decrease the number of contestants in this season.
+	3. Two spots for you to enter tribe names.
+	4. A button at the bottom of the panel that says "Create Season".
+
+Modifying the number of Weeks/Contestants
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We did what we could to keep this simple for you.  These two fields are synchronized, so all you need to do is set either
+
+	a. The number of contestants in your game,
+or 
+	b. The number of weeks your game will run for.
+
+The other field will update appropriately.  Note: These fields abide by the standard mechanics of the game of Survivor.  You can have no more than 15 contestants, and thus 12 weeks, and no less than 6 contestants (3 weeks). 
+
+Entering Tribe Names
+~~~~~~~~~~~~~~~~~~~~~
+
+There's a certain etiquette to naming tribes that must be abided by for you to successfully start your season.  Your tribe names must be kept simple (as simple as we keep this process for you!). The actual names are decided on the show, but if you are going for a more personalized game, remember:
+
+	* The tribe names cannot have numbers or special characters in them.
+	* The tribe names must be less than or equal to 30 characters.
+	* The tribe names must be greater than or equal to 1 character.
+
+Create Season
+~~~~~~~~~~~~~~
+
+When you press this button, it will check the tribe names to make sure the guide lines indicated above have been followed properly. If they have not, the panel will inform you where the error exists, otherwise it will allow you to proceed to the General Panel.
+
+
+
+
+
