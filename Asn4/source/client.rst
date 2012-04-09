@@ -2,6 +2,9 @@
 BlackBerry Client
 -----------------
 
+.. index::
+   pair: Client; Log In
+
 Log In
 ~~~~~~~~~~
 
@@ -11,6 +14,9 @@ Log In
 
 Enter your user id to log in to the application. Ask the admin for your user id
 if you never received one.
+
+.. index::
+   triple: Client; Log In; Error
 
 Possible Errors When Logging in
 ================================
@@ -26,6 +32,9 @@ Possible Errors When Logging in
 
 :Invalid User id: The user id was not found or was incorrect. Ask the
     administrator for your user id.
+
+.. index::
+   pair: Client; Main Screen
 
 Main Screen
 ~~~~~~~~~~~~
@@ -47,6 +56,9 @@ Visit Bonus for `Bonus Questions`_ (#3).
 .. _`Bonus Questions`: bonus_
 
 
+.. index::
+   pair: Client; Standings Screen
+
 Standings Screen
 ~~~~~~~~~~~~~~~~
 .. _standings:
@@ -60,6 +72,7 @@ and is sorted from most to least points.
 
 
 .. index::
+   pair: Client; Contestant Screen
    pair: Contestant; Select
 
 Picking contestant
