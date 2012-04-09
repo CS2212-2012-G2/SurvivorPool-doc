@@ -13,7 +13,9 @@ Creating A Season
 Create Season Panel
 +++++++++++++++++++
 
-.. image:: img/UserManual/SeasonCreatePanel.png
+.. figure:: img/UserManual/SeasonCreatePanel.png
+
+   The initial interface, creating a new season
 
 This is the very first panel you will see as an administrator.  Assuming 
 everything is working properly (and trust us, it is), there should be a few 
@@ -83,7 +85,9 @@ to the `General Panel`_.
 General Panel
 ~~~~~~~~~~~~~~
 
-.. image:: img/UserManual/GeneralPanel/GeneralPanel.png
+.. figure:: img/UserManual/GeneralPanel/GeneralPanel.png
+
+   The General Panel, flexible interface for several different activities.
 
 At first glance, this panel will look very busy.  We will explain this panel 
 from the top down.
@@ -128,7 +132,9 @@ There are two buttons in this area: Start Season and Advance Week (week number).
 Start Season
 ++++++++++++
 
-.. image:: img/UserManual/GeneralPanel/TimeLineArea.png
+.. figure:: img/UserManual/GeneralPanel/TimeLineArea.png
+
+   View of Time interface before starting a season
 
 Pressing this button indicates that you are prepared to begin the game with the 
 information that you have entered.  The requirements to start a season are as 
@@ -149,7 +155,9 @@ button will light up.
 Advance Week
 ++++++++++++
 
-.. image:: img/UserManual/GeneralPanel/TimeLineArea-SeasonStarted.png
+.. figure:: img/UserManual/GeneralPanel/TimeLineArea-SeasonStarted.png
+
+   View after starting a season, on the first week with a pot size of $10.00
 
 
 This button does quite a bit.  It will cast off whichever contestant you 
@@ -158,10 +166,11 @@ neglected to make theirs, allocate points based off of the weekly picks, and
 update the bottom half of the `General Panel`_.  You must have selected a 
 contestant to be cast off for the current week in order for this button to work.
 
-**Note**: This button will only become active after you have started the season.
-On the final week, the label on the button will change to *Advance Final Week*. 
-The functionality is the same, it is just informing you that you have reached 
-the final week of the competition.
+.. note:: 
+   This button will only become active after you have started the season.
+   On the final week, the label on the button will change to 
+   `Advance Final Week`. The functionality is the same, it is just informing 
+   you that you have reached the final week of the competition.
 
 .. index::
    single: Tribes
@@ -169,11 +178,11 @@ the final week of the competition.
 Tribes
 ========
 
+.. figure:: img/UserManual/GeneralPanel/TribesArea.png
+  
+   Means to change the tribes during the season, as the Game usually does
 
-.. image:: img/UserManual/GeneralPanel/TribesArea.png
-
-
-Here you will see your two tribes names and a "Save Tribes" button.  It is very 
+Here you will see your two tribes names and a `Save Tribes` button.  It is very 
 straight forward.  If it becomes necessary to change a tribe name, you can do so
 in the appropriate field (note that the restrictions applied to tribe names on 
 the `Create Season Panel`_ will still apply on the `General Panel`_) and press 
@@ -185,7 +194,9 @@ the `Create Season Panel`_ will still apply on the `General Panel`_) and press
 History
 =========
 
-.. image:: img/UserManual/GeneralPanel/HistoryArea.png
+.. figure:: img/UserManual/GeneralPanel/HistoryArea.png
+
+   Versatile history viewing panel.
 
 In this field, you can view who has been cast off, when they were cast off, and 
 who is still active in the game.  We also give you the option to select a 
@@ -217,7 +228,9 @@ Cast Offs
 This table displays who has been cast off up to the week previous to the current
 week.
 
-.. image:: img/UserManual/GeneralPanel/HistoryArea-SeasonStarted.png
+.. figure:: img/UserManual/GeneralPanel/HistoryArea-SeasonStarted.png
+
+   The view seen after a season has started and contestants are competing.
 
 .. index:: Contestant Panel
 
@@ -227,7 +240,9 @@ Contestant Panel
 The Contestant panel can be found by clicking the **'Contestant'** tab after 
 the season has been created.
 
-.. image:: img/UserManual/ContestantPanel.png
+.. figure:: img/UserManual/ContestantPanel.png
+
+   The contestant panel before initializing any players.
 
 This is where the administrator can add, delete, and modify contestant data 
 before the season has started, as well as cast off contestants and select 
@@ -241,21 +256,21 @@ Adding a Contestant
 
 To add a new contestant, follow these steps:
 
-1. Press the :index:`New` button located at the bottom of the panel to clear the
+1. Press the `New` button located at the bottom of the panel to clear the
    contestant fields.
 
 2. Input the contestant's first name, last name, picture and desired contestant
    id into the text fields.
 
 3. Select the contestant's required tribe from the drop down box to the right of
-   the "Tribe" label.
+   the `Tribe` label.
 
 .. index:: 
    pair: Contestant; Add New
 
-4. Press the "Add" button.
+4. Press the `Add` button.
 
-5. To add the next contestant, continue on by pressing :index:`New` once again 
+5. To add the next contestant, continue on by pressing `New` once again 
    and repeat. You will only be able to add until the cap number of contestants
    has been reached.
 
@@ -310,7 +325,9 @@ at the top of the contestant table.
 i.e. If the table needs to be sorted by first name, click the `First Name` 
 heading.
 
-.. image:: img/UserManual/ContestantPanel-Filled.png
+.. figure:: img/UserManual/ContestantPanel-Filled.png
+
+   Contestant Panel after starting a season with contestants
 
 .. index::
    pair: Cast Off; Contestant Panel
@@ -371,10 +388,12 @@ To select a contestant winner, follow these steps:
 Player Panel
 ~~~~~~~~~~~~
 
-The Player panel can be found by clicking the **Player** tab after the season 
+The Player panel can be found by clicking the `Player` tab after the season 
 has been created.
 
-.. image:: img/UserManual/PlayerPanel/PlayerPanel.png
+.. figure:: img/UserManual/PlayerPanel/PlayerPanel.png
+
+   View of Player Panel before starting a season or inserting any players
 
 This is where the administrator can add, delete, and modify player data before 
 the start of the season, as well as view player progress and manually select 
@@ -441,10 +460,13 @@ Sorting the Player Table
 To sort the player table, simply click on the required table heading located 
 at the top of the player table. 
 
-i.e. If the table needs to be sorted by first name, click the "First Name" 
+i.e. If the table needs to be sorted by first name, click the `First Name` 
 heading.
 
-.. image:: img/UserManual/PlayerPanel/PlayerPanel-Filled.png
+.. figure:: img/UserManual/PlayerPanel/PlayerPanel-Filled.png
+
+   The view after starting a season with two different players
+
 
 .. index::
    pair: Ultimate Pick; Player Panel
@@ -474,7 +496,9 @@ Bonus Panel
 The Bonus panel can be found by clicking the **'Bonus'** tab after the season 
 has been created.
 
-.. image:: img/UserManual/BonusPanel/BonusPanel-Labelled.png
+.. figure:: img/UserManual/BonusPanel/BonusPanel-Labelled.png
+
+   The two main features of the Bonus Panel
 
 This is where an administrator can create bonus questions for the survivor      
 game. 
@@ -497,7 +521,9 @@ To add a new bonus question, follow these steps:
 2. Type in your bonus question, and select one of the two bullets: 
    `Multiple Choice` or `Short Answer`.
 	
-.. image:: img/UserManual/BonusPanel/DataEntryArea-NewQuestion.png
+.. figure:: img/UserManual/BonusPanel/DataEntryArea-NewQuestion.png
+
+   The interface for adding the question prompt
 	
 3. Click `Next` to continue.
 	
@@ -532,7 +558,9 @@ After your bonus question is submitted, it can be viewed in the
 Use the `View Week` and `View Question` spinners to look through all of
 the questions you have added.
 
-.. image:: img/UserManual/BonusPanel/DataTableArea-Filled.png
+.. figure:: img/UserManual/BonusPanel/DataTableArea-Filled.png
+
+   View showing the viewing panel for bonus questions
 
 .. index::
    pair: Modify; Bonus Panel

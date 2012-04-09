@@ -174,7 +174,7 @@ latex_elements = {
 #'papersize': 'letterpaper',
 
 # The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
+'pointsize': '12pt',
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
@@ -184,12 +184,12 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'SurvivorPool.tex', u'Survivor Pool Documentation',
-   u'Kevin Brightwell, Jonathan Demelo, Graem Littleton, Justin McDonald, Ramesh Raj', 'manual'),
+   u'CS2212 Group 2 - 2012', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+latex_logo = 'img/logo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
