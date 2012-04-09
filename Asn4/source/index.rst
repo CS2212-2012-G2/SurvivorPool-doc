@@ -13,5 +13,4 @@ Contents:
 
    admin
    client
-   toolbar
 
