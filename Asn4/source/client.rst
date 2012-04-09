@@ -34,7 +34,7 @@ Main Screen
 
 	The Main Screen
 
-The user can **Log in** and **Exit** at any time.
+The user can `Log out` and `Exit` at any time.
 
 Visit Standings screen for `View Standings`_ (#1).
 Visit Picking contestant for `Make Your Vote`_ (#2).
