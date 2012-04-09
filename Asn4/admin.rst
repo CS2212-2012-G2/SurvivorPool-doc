@@ -8,9 +8,10 @@ Getting Started
 Creating A Season
 =================
 
-
 Create Season Panel
 +++++++++++++++++++
+
+.. image:: img/UserManual/SeasonCreatePanel.png
 
 This is the very first panel you will see as an administrator.  Assuming 
 everything is working properly (and trust us, it is), there should be a few 
@@ -62,11 +63,13 @@ Create Season
 
 When you press this button, it will check the tribe names to make sure the guide
 lines indicated above have been followed properly. If they have not, the panel 
-will inform you where the error exists, otherwise it will allow you to proceed 
+will inform you where the error exists; otherwise it will allow you to proceed 
 to the `General Panel`_.
 
 General Panel
 ~~~~~~~~~~~~~~
+
+.. image:: img/UserManual//GeneralPanel/GeneralPanel.png
 
 At first glance, this panel will look very busy.  We will explain this panel 
 from the top down.
@@ -103,6 +106,8 @@ There are two buttons in this area: Start Season and Advance Week (week number).
 Start Season
 ++++++++++++
 
+.. image:: img/UserManual/GeneralPanel/TimeLineArea.png
+
 Pressing this button indicates that you are prepared to begin the game with the 
 information that you have entered.  The requirements to start a season are as 
 follows:
@@ -119,6 +124,9 @@ button will light up.
 Advance Week
 ++++++++++++
 
+.. image:: img/UserManual/GeneralPanel/TimeLineArea.SeasonStarted.png
+
+
 This button does quite a bit.  It will cast off whichever contestant you 
 selected to be, fill in weekly and ultimate picks for whichever players 
 neglected to make theirs, allocate points based off of the weekly picks, and 
@@ -134,6 +142,9 @@ the final week of the competition.
 Tribes
 ========
 
+.. image:: img/UserManual/GeneralPanel/TribesArea.png
+
+
 Here you will see your two tribes names and a "Save Tribes" button.  It is very 
 straight forward.  If it becomes necessary to change a tribe name, you can do so
 in the appropriate field (note that the restrictions applied to tribe names on 
@@ -142,6 +153,8 @@ the `Create Season Panel`_ will still apply on the `General Panel`_) and press
 
 History
 =========
+
+.. image:: img/UserManual/GeneralPanel/HistoryArea.png
 
 In this field, you can view who has been cast off, when they were cast off, and 
 who is still active in the game.  We also give you the option to select a 
@@ -164,6 +177,7 @@ Cast Offs
 This table displays who has been cast off up to the week previous to the current
 week.
 
+.. image:: img/UserManual/GeneralPanel/HistoryArea.SeasonStarted.png
 
 Bonus Panel
 ~~~~~~~~~~~
