@@ -48,7 +48,7 @@ Visit Bonus for `Bonus Questions`_ (#3).
 
 
 Standings Screen
-=================
+~~~~~~~~~~~~~~~~
 .. _standings:
 
 .. figure:: img/Client/standings.png
@@ -60,7 +60,7 @@ and is sorted from most to least points.
 
 
 Picking contestant
-==================
+~~~~~~~~~~~~~~~~~~~
 
 .. _vote:
 
@@ -93,7 +93,7 @@ revote if a pick has already been made.
 
 
 Bonus
-======
+~~~~~
 
 .. _bonus:
 
