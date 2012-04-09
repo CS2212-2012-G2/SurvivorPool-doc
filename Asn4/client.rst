@@ -1,11 +1,11 @@
------------------
+
 BlackBerry Client
 -----------------
 
 Log In
-++++++++++
+~~~~~~~~~~
 
-.. figure:: start.png
+.. figure:: img/Client/start.png
 	:scale: 200%
 
 	The Log In Screen
@@ -14,7 +14,7 @@ Enter your user id to log in to the application. Ask the admin for your user id
 if you never received one.
 
 Possible Errors When Logging in
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+================================
 **SD card not inserted**: Make sure you have an SD card inserted into the device.
 Refer to the owner's manual of your device for more information.
 
@@ -29,9 +29,9 @@ only be used when a season has been started.
 administrator for your user id.
 
 Main Screen
-++++++++++++
+~~~~~~~~~~~~
 
-.. figure:: main-menu.png
+.. figure:: img/Client/main-menu.png
 	:scale: 200%
 
 	The Main Screen
@@ -50,10 +50,10 @@ Visit Bonus for `Bonus Questions`_ (#3).
 
 
 Standings Screen
-^^^^^^^^^^^^^^^^^
+=================
 .. _standings:
 
-.. figure:: standings.png
+.. figure:: img/Client/standings.png
 	:scale: 200%
 
 	Player standings
@@ -63,13 +63,13 @@ and is sorted from most to least points.
 
 
 Picking contestant
-^^^^^^^^^^^^^^^^^^
+==================
 
 .. _vote:
 
 This button is *not visible* if the season has finished.
 
-.. figure:: vote-menu.png
+.. figure:: img/Client/vote-menu.png
 	:scale: 200%
 
 	Vote Menu
@@ -84,7 +84,7 @@ decreases if you change your pick.
 is going to become the ultimate winner.
 
 
-.. figure:: vote-screen.png
+.. figure:: img/Client/vote-screen.png
 	:scale: 200%
 
 	Vote Screen
@@ -98,13 +98,13 @@ revote if a pick has already been made.
 
 
 Bonus
-^^^^^^
+======
 
 .. _bonus:
 
 Only *visible* if bonus questions have been created by the administrator.
 
-.. figure:: bonus.png
+.. figure:: img/Client/bonus.png
 	:scale: 200%
 
 	Bonus Question screen
