@@ -7,4 +7,6 @@ admin.panel.person.player
 admin.panel.season
 data
 data.bonus
+json.simple
+json.simple.parser
 test
