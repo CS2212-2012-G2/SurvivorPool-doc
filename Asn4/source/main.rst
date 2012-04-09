@@ -1,10 +1,16 @@
 ====================================
-CS2212 Group 2 - SurvivorPool Manual
+Survivor Pool Manual
 ====================================
+
+.. header::
+  ###Title### - ###Section###
+
+.. footer::
+  ###Page### of ###Total###
 
 .. table of contents:
 
-.. sectnum:: :depth: 3
+.. sectnum:: :depth: 2
 .. contents:: Table of Contents
 
 .. Includes for the manual rst
@@ -13,9 +19,4 @@ CS2212 Group 2 - SurvivorPool Manual
 
 .. include:: client.rst
 
-
-README File:
-------------
-
-.. include:: README/README.rst
 

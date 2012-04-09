@@ -165,6 +165,12 @@ This table displays who has been cast off up to the week previous to the current
 week.
 
 
+Contestant Panel
+~~~~~~~~~~~~~~~~
+
+
+
+
 Bonus Panel
 ~~~~~~~~~~~
 
@@ -214,7 +220,8 @@ Viewing Questions
 After your bonus question is submitted, it can be viewed in the 
 **'Question Listing Field'** on the Bonus Panel.
 
-Use the **'View Week'** and **'View Question'** spinners to look through all of the questions you have added.
+Use the **'View Week'** and **'View Question'** spinners to look through all of
+the questions you have added.
 
 .. image:: img/UserManual/BonusPanel/DataTableArea.Filled.png
 

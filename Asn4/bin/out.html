@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.8.1: http://docutils.sourceforge.net/" />
+<title>CS2212 Group 2 - SurvivorPool Manual</title>
+<style type="text/css">
+
+/*
+:Authors: Ian Bicking, Michael Foord
+:Contact: fuzzyman@voidspace.org.uk
+:Date: 2005/08/26 
+:Version: 0.1.0
+:Copyright: This stylesheet has been placed in the public domain.
+
+Stylesheet for Docutils.
+Based on ``blue_box.css`` by Ian Bicking
+and ``html4css1.css`` revision 1.46.
+*/
+
+@import url(http://rst2a.com/static/styles/html/default.css);
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+em, i {
+  /* Typically serif fonts have much nicer italics */
+  font-family: Times New Roman, Times, serif;
+}
+
+a.target {
+  color: blue;
+}
+
+a.target {
+  color: blue;
+}
+
+a.toc-backref {
+  text-decoration: none;
+  color: black;
+}
+
+a.toc-backref:hover {
+  background-color: inherit;
+}
+
+a:hover {
+  background-color: #cccccc;
+}
+
+div.attention, div.caution, div.danger, div.error, div.hint,
+div.important, div.note, div.tip, div.warning {
+  background-color: #cccccc;
+  padding: 3px;
+  width: 80%;
+}
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title  {
+  text-align: center;
+  background-color: #999999;
+  display: block;
+  margin: 0;
+}
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: #cc0000;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #999999;
+  display: block;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+  border: thin solid black;
+  /* This makes the borders rounded on Mozilla, which pleases me */
+  -moz-border-radius: 8px;
+  padding: 4px;
+}
+
+h1 {
+  background-color: #444499;
+  color: #ffffff;
+  border: medium solid black;
+}
+
+h1 a.toc-backref, h2 a.toc-backref { 
+  color: #ffffff;
+}
+
+h2 {
+  background-color: #666666;
+  color: #ffffff;
+  border: medium solid black;
+}
+
+h3, h4, h5, h6 {
+  background-color: #cccccc;
+  color: #000000;
+}
+
+h3 a.toc-backref, h4 a.toc-backref, h5 a.toc-backref, 
+h6 a.toc-backref { 
+  color: #000000;
+}
+
+h1.title {
+  text-align: center;
+  background-color: #444499;
+  color: #eeeeee;
+  border: thick solid black;
+  -moz-border-radius: 20px;
+}
+
+table.footnote {
+  padding-left: 0.5ex;
+}
+
+table.citation {
+  padding-left: 0.5ex
+}
+
+pre.literal-block, pre.doctest-block {
+  border: thin black solid;
+  padding: 5px;
+}
+
+.image img { border-style : solid;
+            border-width : 2px;
+}
+
+h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt {
+  font-size: 100%;
+}
+
+code, tt {
+  color: #000066;
+}
+
+</style>
+</head>
+<body>
+<div class="document" id="cs2212-group-2-survivorpool-manual">
+<h1 class="title">CS2212 Group 2 - SurvivorPool Manual</h1>
+
+<!-- table of contents: -->
+<div class="contents topic" id="table-of-contents">
+<p class="topic-title first">Table of Contents</p>
+<ul class="auto-toc simple">
+<li><a class="reference internal" href="#the-administration-panel" id="id5">1&nbsp;&nbsp;&nbsp;The Administration Panel</a><ul class="auto-toc">
+<li><a class="reference internal" href="#getting-started" id="id6">1.1&nbsp;&nbsp;&nbsp;Getting Started</a><ul class="auto-toc">
+<li><a class="reference internal" href="#creating-a-season" id="id7">1.1.1&nbsp;&nbsp;&nbsp;Creating A Season</a><ul>
+<li><a class="reference internal" href="#create-season-panel" id="id8">Create Season Panel</a><ul>
+<li><a class="reference internal" href="#modifying-the-number-of-weeks-contestants" id="id9">Modifying the number of Weeks/Contestants</a></li>
+<li><a class="reference internal" href="#entering-tribe-names" id="id10">Entering Tribe Names</a></li>
+<li><a class="reference internal" href="#create-season" id="id11">Create Season</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#general-panel" id="id12">1.2&nbsp;&nbsp;&nbsp;General Panel</a><ul class="auto-toc">
+<li><a class="reference internal" href="#tabs" id="id13">1.2.1&nbsp;&nbsp;&nbsp;Tabs</a></li>
+<li><a class="reference internal" href="#time" id="id14">1.2.2&nbsp;&nbsp;&nbsp;Time</a><ul>
+<li><a class="reference internal" href="#start-season" id="id15">Start Season</a></li>
+<li><a class="reference internal" href="#advance-week" id="id16">Advance Week</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#tribes" id="id17">1.2.3&nbsp;&nbsp;&nbsp;Tribes</a></li>
+<li><a class="reference internal" href="#history" id="id18">1.2.4&nbsp;&nbsp;&nbsp;History</a><ul>
+<li><a class="reference internal" href="#view-week" id="id19">View Week</a></li>
+<li><a class="reference internal" href="#contestants" id="id20">Contestants</a></li>
+<li><a class="reference internal" href="#cast-offs" id="id21">Cast Offs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#bonus-panel" id="id22">1.3&nbsp;&nbsp;&nbsp;Bonus Panel</a><ul class="auto-toc">
+<li><a class="reference internal" href="#adding-a-question" id="id23">1.3.1&nbsp;&nbsp;&nbsp;Adding a Question</a></li>
+<li><a class="reference internal" href="#viewing-questions" id="id24">1.3.2&nbsp;&nbsp;&nbsp;Viewing Questions</a></li>
+<li><a class="reference internal" href="#modifying-a-question" id="id25">1.3.3&nbsp;&nbsp;&nbsp;Modifying a Question</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#blackberry-client" id="id26">2&nbsp;&nbsp;&nbsp;BlackBerry Client</a><ul class="auto-toc">
+<li><a class="reference internal" href="#log-in" id="id27">2.1&nbsp;&nbsp;&nbsp;Log In</a><ul class="auto-toc">
+<li><a class="reference internal" href="#possible-errors-when-logging-in" id="id28">2.1.1&nbsp;&nbsp;&nbsp;Possible Errors When Logging in</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#main-screen" id="id29">2.2&nbsp;&nbsp;&nbsp;Main Screen</a><ul class="auto-toc">
+<li><a class="reference internal" href="#standings-screen" id="id30">2.2.1&nbsp;&nbsp;&nbsp;Standings Screen</a></li>
+<li><a class="reference internal" href="#picking-contestant" id="id31">2.2.2&nbsp;&nbsp;&nbsp;Picking contestant</a></li>
+<li><a class="reference internal" href="#bonus" id="id32">2.2.3&nbsp;&nbsp;&nbsp;Bonus</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#readme-file" id="id33">3&nbsp;&nbsp;&nbsp;README File:</a><ul class="auto-toc">
+<li><a class="reference internal" href="#final-acceptance-testing" id="id34">3.1&nbsp;&nbsp;&nbsp;Final Acceptance Testing</a></li>
+<li><a class="reference internal" href="#administrator-client" id="id35">3.2&nbsp;&nbsp;&nbsp;Administrator Client</a><ul class="auto-toc">
+<li><a class="reference internal" href="#setup" id="id36">3.2.1&nbsp;&nbsp;&nbsp;Setup</a></li>
+<li><a class="reference internal" href="#specification-testing" id="id37">3.2.2&nbsp;&nbsp;&nbsp;Specification Testing</a></li>
+<li><a class="reference internal" href="#id2" id="id38">3.2.3&nbsp;&nbsp;&nbsp;BlackBerry Client</a><ul>
+<li><a class="reference internal" href="#id3" id="id39">Setup</a><ul>
+<li><a class="reference internal" href="#setup-sd-card-for-blackberry-simulator" id="id40">Setup SD Card for BlackBerry Simulator</a></li>
+<li><a class="reference internal" href="#install-blackberry-os-7-1-0-in-eclipse" id="id41">Install BlackBerry OS 7.1.0 in Eclipse</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id4" id="id42">Specification Testing</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#old-submissions" id="id43">3.3&nbsp;&nbsp;&nbsp;Old Submissions</a></li>
+<li><a class="reference internal" href="#assignment-3" id="id44">3.4&nbsp;&nbsp;&nbsp;Assignment 3</a></li>
+<li><a class="reference internal" href="#assignment-2" id="id45">3.5&nbsp;&nbsp;&nbsp;Assignment 2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- Includes for the manual rst -->
+<div class="section" id="the-administration-panel">
+<h1><a class="toc-backref" href="#id5">1&nbsp;&nbsp;&nbsp;The Administration Panel</a></h1>
+<div class="section" id="getting-started">
+<h2><a class="toc-backref" href="#id6">1.1&nbsp;&nbsp;&nbsp;Getting Started</a></h2>
+<div class="section" id="creating-a-season">
+<h3><a class="toc-backref" href="#id7">1.1.1&nbsp;&nbsp;&nbsp;Creating A Season</a></h3>
+<div class="section" id="create-season-panel">
+<h4><a class="toc-backref" href="#id8">Create Season Panel</a></h4>
+<p>This is the very first panel you will see as an administrator.  Assuming
+everything is working properly (and trust us, it is), there should be a few
+things unique to this panel that you'll notice:</p>
+<ol class="arabic simple">
+<li>A spot for you to increase/decrease the number of weeks in this season.</li>
+<li>A spot for you to increase/decrease the number of contestants in this
+season.</li>
+<li>Two spots for you to enter tribe names.</li>
+<li>A button at the bottom of the panel that says &quot;Create Season&quot;.</li>
+</ol>
+<div class="section" id="modifying-the-number-of-weeks-contestants">
+<h5><a class="toc-backref" href="#id9">Modifying the number of Weeks/Contestants</a></h5>
+<p>We did what we could to keep this simple for you.  These two fields are
+synchronized, so all you need to do is set either</p>
+<ol class="loweralpha simple">
+<li>The number of contestants in your game,</li>
+</ol>
+<p>or</p>
+<ol class="loweralpha simple" start="2">
+<li>The number of weeks your game will run for.</li>
+</ol>
+<p>The other field will update appropriately.</p>
+<p>Note: These fields abide by the standard mechanics of the game of Survivor.  You
+can have no more than 15 contestants, and thus 12 weeks, and no less than 6
+contestants (3 weeks).</p>
+</div>
+<div class="section" id="entering-tribe-names">
+<h5><a class="toc-backref" href="#id10">Entering Tribe Names</a></h5>
+<p>There's a certain etiquette to naming tribes that must be abided by for you to
+successfully start your season.  Your tribe names must be kept simple (as simple
+as we keep this process for you!). The actual names are decided on the show, but
+if you are going for a more personalized game, remember:</p>
+<ul class="simple">
+<li>The tribe names cannot have numbers or special characters in them.</li>
+<li>The tribe names must be less than or equal to 30 characters.</li>
+<li>The tribe names must be greater than or equal to 1 character.</li>
+</ul>
+</div>
+<div class="section" id="create-season">
+<h5><a class="toc-backref" href="#id11">Create Season</a></h5>
+<p>When you press this button, it will check the tribe names to make sure the guide
+lines indicated above have been followed properly. If they have not, the panel
+will inform you where the error exists, otherwise it will allow you to proceed
+to the <a class="reference internal" href="#general-panel">General Panel</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="general-panel">
+<h2><a class="toc-backref" href="#id12">1.2&nbsp;&nbsp;&nbsp;General Panel</a></h2>
+<p>At first glance, this panel will look very busy.  We will explain this panel
+from the top down.</p>
+<div class="section" id="tabs">
+<h3><a class="toc-backref" href="#id13">1.2.1&nbsp;&nbsp;&nbsp;Tabs</a></h3>
+<p>There are four tabs at the top of the panel. Ignoring the General tab (this is
+where you currently are), we have:</p>
+<ul>
+<li><p class="first">The Contestant Tab</p>
+<p>This is where the information for all of the contestants. For more information
+on how to work with this panel, see the <a href="#id46"><span class="problematic" id="id47">`Contestant Panel`_</span></a>.</p>
+</li>
+<li><p class="first">The Player Tab</p>
+<p>This tab leads you to the Player panel, which displays information on the
+people that have decided to take part in the office pool.
+For more information on how to work with this panel, see <a href="#id48"><span class="problematic" id="id49">`Player Panel`_</span></a>.</p>
+</li>
+<li><p class="first">The Bonus Tab</p>
+<p>This tab leads you to where you will be able to enter new or modify existing
+questions for your players to answer. For more information on how to work with
+this panel, see <a class="reference internal" href="#bonus-panel">Bonus Panel</a>.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="time">
+<h3><a class="toc-backref" href="#id14">1.2.2&nbsp;&nbsp;&nbsp;Time</a></h3>
+<p>There are two buttons in this area: Start Season and Advance Week (week number).</p>
+<div class="section" id="start-season">
+<h4><a class="toc-backref" href="#id15">Start Season</a></h4>
+<p>Pressing this button indicates that you are prepared to begin the game with the
+information that you have entered.  The requirements to start a season are as
+follows:</p>
+<ol class="arabic simple">
+<li>You must have saved a number of contestants equal to the number you set on
+the <a class="reference internal" href="#create-season-panel">Create Season Panel</a>.</li>
+<li>You must have at least 1 person taking part in the office pool.</li>
+</ol>
+<p>If you've met the requirements, a window will pop up and request that you enter
+the amount of money that each player will be contributing, and the advance week
+button will light up.</p>
+</div>
+<div class="section" id="advance-week">
+<h4><a class="toc-backref" href="#id16">Advance Week</a></h4>
+<p>This button does quite a bit.  It will cast off whichever contestant you
+selected to be, fill in weekly and ultimate picks for whichever players
+neglected to make theirs, allocate points based off of the weekly picks, and
+update the bottom half of the <a class="reference internal" href="#general-panel">General Panel</a>.  You must have selected a
+contestant to be cast off for the current week in order for this button to work.</p>
+<p><strong>Note</strong>: This button will only become active after you have started the season.
+On the final week, the label on the button will change to <em>Advance Final Week</em>.
+The functionality is the same, it is just informing you that you have reached
+the final week of the competition.</p>
+</div>
+</div>
+<div class="section" id="tribes">
+<h3><a class="toc-backref" href="#id17">1.2.3&nbsp;&nbsp;&nbsp;Tribes</a></h3>
+<p>Here you will see your two tribes names and a &quot;Save Tribes&quot; button.  It is very
+straight forward.  If it becomes necessary to change a tribe name, you can do so
+in the appropriate field (note that the restrictions applied to tribe names on
+the <a class="reference internal" href="#create-season-panel">Create Season Panel</a> will still apply on the <a class="reference internal" href="#general-panel">General Panel</a>) and press
+<em>Save Tribes</em>.</p>
+</div>
+<div class="section" id="history">
+<h3><a class="toc-backref" href="#id18">1.2.4&nbsp;&nbsp;&nbsp;History</a></h3>
+<p>In this field, you can view who has been cast off, when they were cast off, and
+who is still active in the game.  We also give you the option to select a
+specific week to view.</p>
+<div class="section" id="view-week">
+<h4><a class="toc-backref" href="#id19">View Week</a></h4>
+<p>You can decide to view a previous week.  It will display the Contestants/Cast
+Offs tables as they looked on that week.</p>
+</div>
+<div class="section" id="contestants">
+<h4><a class="toc-backref" href="#id20">Contestants</a></h4>
+<p>This table displays who is (or was) active on the current week.</p>
+</div>
+<div class="section" id="cast-offs">
+<h4><a class="toc-backref" href="#id21">Cast Offs</a></h4>
+<p>This table displays who has been cast off up to the week previous to the current
+week.</p>
+</div>
+</div>
+</div>
+<div class="section" id="bonus-panel">
+<h2><a class="toc-backref" href="#id22">1.3&nbsp;&nbsp;&nbsp;Bonus Panel</a></h2>
+<p>The Bonus panel can be found by clicking the <strong>'Bonus'</strong> tab after the season
+has been created.</p>
+<img alt="img/UserManual/BonusPanel/BonusPanel.Labelled.png" src="img/UserManual/BonusPanel/BonusPanel.Labelled.png" />
+<p>This is where an administrator can create bonus questions for the survivor
+game.</p>
+<p>These questions can be answered by survivor pool players to earn additional
+points.</p>
+<div class="section" id="adding-a-question">
+<h3><a class="toc-backref" href="#id23">1.3.1&nbsp;&nbsp;&nbsp;Adding a Question</a></h3>
+<p>To add a new bonus question, follow these steps:</p>
+<ol class="arabic simple">
+<li>Notice that the Bonus Panel is disabled at first; the <strong>'New'</strong> button will
+become clickable after the season has been started. Click the <strong>'New'</strong>
+Button to enable the <strong>'Question Adding Field'</strong>.</li>
+<li>Type in your bonus question, and select one of the two bullets:
+<strong>'Multiple Choice'</strong> or <strong>'Short Answer'</strong>.</li>
+</ol>
+<img alt="img/UserManual/BonusPanel/DataEntryArea.NewQuestion.png" src="img/UserManual/BonusPanel/DataEntryArea.NewQuestion.png" />
+<ol class="arabic simple" start="3">
+<li>Click <strong>'Next'</strong> to continue.</li>
+<li>At this point, the appropriate answer fields (depending on what type of
+question you indicated) will be displayed.<ol class="loweralpha">
+<li>If you selected <strong>'Short Answer'</strong>, simply type in the answer to your
+question, and click <strong>'Submit'</strong> to confirm your question completion.</li>
+<li>If you selected <strong>'Multiple Choice'</strong>, fill in the four answer fields and
+indicate which answer is correct with the bullets on the left hand side,
+then click <strong>'Submit'</strong> to confirm.</li>
+</ol>
+</li>
+<li>The <strong>'Back'</strong> button can be used to edit the <strong>'Question Adding Field'</strong>
+before you submit the bonus question.</li>
+</ol>
+</div>
+<div class="section" id="viewing-questions">
+<h3><a class="toc-backref" href="#id24">1.3.2&nbsp;&nbsp;&nbsp;Viewing Questions</a></h3>
+<p>After your bonus question is submitted, it can be viewed in the
+<strong>'Question Listing Field'</strong> on the Bonus Panel.</p>
+<p>Use the <strong>'View Week'</strong> and <strong>'View Question'</strong> spinners to look through all of the questions you have added.</p>
+<img alt="img/UserManual/BonusPanel/DataTableArea.Filled.png" src="img/UserManual/BonusPanel/DataTableArea.Filled.png" />
+</div>
+<div class="section" id="modifying-a-question">
+<h3><a class="toc-backref" href="#id25">1.3.3&nbsp;&nbsp;&nbsp;Modifying a Question</a></h3>
+<p>Only questions added to the current week may be modified; to modify one of these
+bonus questions follow these steps:</p>
+<ol class="arabic simple">
+<li>Click the <strong>'Modify'</strong> button to load a question into the
+<strong>'Question Adding Field'</strong>.</li>
+<li>Make your changes to the question, indicate the question type and click
+<strong>'Next'</strong>.</li>
+<li>Make any necessary changes to the answer fields and click <strong>'Submit'</strong> to
+confirm your bonus question modification.</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="section" id="blackberry-client">
+<h1><a class="toc-backref" href="#id26">2&nbsp;&nbsp;&nbsp;BlackBerry Client</a></h1>
+<div class="section" id="log-in">
+<h2><a class="toc-backref" href="#id27">2.1&nbsp;&nbsp;&nbsp;Log In</a></h2>
+<div class="figure">
+<img alt="img/Client/start.png" src="img/Client/start.png" style="width: 634.0px; height: 476.0px;" />
+<p class="caption">The Log In Screen</p>
+</div>
+<p>Enter your user id to log in to the application. Ask the admin for your user id
+if you never received one.</p>
+<div class="section" id="possible-errors-when-logging-in">
+<h3><a class="toc-backref" href="#id28">2.1.1&nbsp;&nbsp;&nbsp;Possible Errors When Logging in</a></h3>
+<p><strong>SD card not inserted</strong>: Make sure you have an SD card inserted into the device.
+Refer to the owner's manual of your device for more information.</p>
+<p><strong>File not found</strong>: The admin may have not uploaded the file onto your sd card or
+is not in the right place. The file in the sdcard should be at <em>res/data/GameData.dat</em></p>
+<p><strong>Season not started</strong>: The admin has not yet started the season. The client can
+only be used when a season has been started.</p>
+<p><strong>Invalid User id</strong>: The user id was not found or was incorrect. Ask the
+administrator for your user id.</p>
+</div>
+</div>
+<div class="section" id="main-screen">
+<h2><a class="toc-backref" href="#id29">2.2&nbsp;&nbsp;&nbsp;Main Screen</a></h2>
+<div class="figure">
+<img alt="img/Client/main-menu.png" src="img/Client/main-menu.png" style="width: 634.0px; height: 476.0px;" />
+<p class="caption">The Main Screen</p>
+</div>
+<p>The user can <strong>Log in</strong> and <strong>Exit</strong> at any time.</p>
+<p>Visit Standings screen for <a class="reference internal" href="#standings">View Standings</a> (#1).
+Visit Picking contestant for <a class="reference internal" href="#vote">Make Your Vote</a> (#2).
+Visit Bonus for <a class="reference internal" href="#id1">Bonus Questions</a> (#3).</p>
+<div class="section" id="standings-screen">
+<h3><a class="toc-backref" href="#id30">2.2.1&nbsp;&nbsp;&nbsp;Standings Screen</a></h3>
+<div class="figure" id="standings">
+<img alt="img/Client/standings.png" src="img/Client/standings.png" style="width: 634.0px; height: 476.0px;" />
+<p class="caption">Player standings</p>
+</div>
+<p>The list shows the standings of all players(users) and their respective points
+and is sorted from most to least points.</p>
+</div>
+<div class="section" id="picking-contestant">
+<h3><a class="toc-backref" href="#id31">2.2.2&nbsp;&nbsp;&nbsp;Picking contestant</a></h3>
+<p id="vote">This button is <em>not visible</em> if the season has finished.</p>
+<div class="figure">
+<img alt="img/Client/vote-menu.png" src="img/Client/vote-menu.png" style="width: 634.0px; height: 476.0px;" />
+<p class="caption">Vote Menu</p>
+</div>
+<p><strong>Vote For This Week</strong> This will let you select the weekly pick. choose which contestant is
+going to be casted off this week. Please see Pick Final if it is the last week.</p>
+<p><strong>Vote For Ultimate</strong> This will let you select your ultimate pick. Remeber, the total number of points
+decreases if you change your pick.</p>
+<p><strong>Pick Final</strong> will only appear on the final week of play. Choose which contestant
+is going to become the ultimate winner.</p>
+<div class="figure">
+<img alt="img/Client/vote-screen.png" src="img/Client/vote-screen.png" style="width: 634.0px; height: 476.0px;" />
+<p class="caption">Vote Screen</p>
+</div>
+<p>The <strong>drop down box</strong> contains all the active contestants. If you have already chosen
+a pick, the drop down box defaults to that contestant.</p>
+<p>Click the <strong>vote</strong> button to confirm your submission. The vote button will be called
+revote if a pick has already been made.</p>
+</div>
+<div class="section" id="bonus">
+<h3><a class="toc-backref" href="#id32">2.2.3&nbsp;&nbsp;&nbsp;Bonus</a></h3>
+<p id="id1">Only <em>visible</em> if bonus questions have been created by the administrator.</p>
+<div class="figure">
+<img alt="img/Client/bonus.png" src="img/Client/bonus.png" style="width: 634.0px; height: 476.0px;" />
+<p class="caption">Bonus Question screen</p>
+</div>
+<p><strong>Previous</strong> and <strong>Next</strong> cycle through all the questions.</p>
+<p>If the question is from a <em>previous</em> week, the <em>correct</em> and <em>your</em> answer will be
+shown.</p>
+<p>You can only <em>answer</em> questions in the <strong>current</strong> week.
+Hit <strong>send</strong> to submit your answer after you have entered it.</p>
+<p><em>200</em> is the max number of characters for short answers.
+Send changes to resend if an answer has already been submitted.</p>
+</div>
+</div>
+</div>
+<div class="section" id="readme-file">
+<h1><a class="toc-backref" href="#id33">3&nbsp;&nbsp;&nbsp;README File:</a></h1>
+<div class="section" id="final-acceptance-testing">
+<h2><a class="toc-backref" href="#id34">3.1&nbsp;&nbsp;&nbsp;Final Acceptance Testing</a></h2>
+</div>
+<div class="section" id="administrator-client">
+<h2><a class="toc-backref" href="#id35">3.2&nbsp;&nbsp;&nbsp;Administrator Client</a></h2>
+<div class="section" id="setup">
+<h3><a class="toc-backref" href="#id36">3.2.1&nbsp;&nbsp;&nbsp;Setup</a></h3>
+<ol class="arabic simple">
+<li>Run the jar file with: <tt class="docutils literal">java <span class="pre">-jar</span> Group2Standalone.jar</tt></li>
+<li>On first run, there will be no data and it will initialize to empty</li>
+</ol>
+<dl class="docutils">
+<dt><strong>Note:</strong></dt>
+<dd>This _requires_ <a class="reference external" href="http://www.oracle.com/technetwork/java/javase/downloads/jdk-7u3-download-1501626.html">Java 7</a>.</dd>
+</dl>
+</div>
+<div class="section" id="specification-testing">
+<h3><a class="toc-backref" href="#id37">3.2.2&nbsp;&nbsp;&nbsp;Specification Testing</a></h3>
+<ol class="arabic simple" start="12">
+<li>The administrative user must be able to start the game (at this point no new
+players or contestants can be added). At this point the administrative
+user should also enter the amount of money that each player is going to
+pitch in (for example each player might be pitching in 5 dollars or 1
+dollar).<ul>
+<li>Upon clicking Start Season (in the General Panel) you will be prompted for
+the bet amount</li>
+</ul>
+</li>
+</ol>
+<ol class="arabic simple" start="15">
+<li>The administrative user must be able to add/modify/delete bonus questions
+for each round/week. Each bonus question must be 1 to 200 characters long
+the question can be either multiple choice or short answer. The answer must
+be 1 to 200 characters. The administrative user must be able to list all the
+bonus questions in order by round/week.<ul>
+<li>This information can be found within the &quot;Bonus&quot; tab.</li>
+</ul>
+</li>
+<li>The administrative user must be able to change which contestant was
+eliminated each week, incase he/she made a mistake. However the player can
+NOT change who he/she picked to eliminated one the round has passed. If the
+admin user change the contestant that was eliminated for a previous week,
+then the standings will have to be updated.<ul>
+<li>When changing a choice, go to the contestant tab, and click open the
+combobox to the left of the &quot;set status&quot; button. This allows you to choose
+(after selecting the contestant in question within the display table) what
+week you'd like them to be cast off on. If it is the current week, it
+proceeds as normal, but if it's a previous week, you will be asked if you
+would like to continue, as it would invalidate the game.</li>
+</ul>
+</li>
+<li>If a player forgets to pick who will be eliminated in a week, then he/she
+will be given a random contestant as his/her pick for that week (thus some
+weeks the player might get points even though he/she didn't pick anyone, if
+the random pick is the contestant who was eliminated). This also means that
+a player who drops out (stops picking altogether) might end up winning the
+pool.<ul>
+<li>This is generated when there are no picks select upon clicking &quot;advance
+week&quot; within the general tab</li>
+</ul>
+</li>
+<li>Players pick which of the 3 remaining contestants will win. If they pick
+correctly they get 40 points<ul>
+<li>This is generated within the backend after the final week's advancement.
+This can be seen within the player tab's table, which displays player
+scores</li>
+</ul>
+</li>
+<li>Every week players will say who they think will be eliminated. If the player
+pick the correct contestant who will be eliminated, they get 20 points<ul>
+<li>See 18.</li>
+</ul>
+</li>
+<li>A player can change who they think will win the whole game at any point,
+then they get 2 points * the number of remaining contestants<ul>
+<li>See 18.</li>
+</ul>
+</li>
+<li>Stage 2, during the last week, when there are only 3 contestants left
+Players pick which of the 3 remaining contestants will win. If they pick
+correctly they get 40 points<ul>
+<li>See 18.</li>
+</ul>
+</li>
+<li>Stage 2, during the last week, when there are only 3 contestants left.
+Players get the points for the overall winner if they picked correctly in an
+early round<ul>
+<li>See 18.</li>
+</ul>
+</li>
+<li>Stage 2, during the last week, when there are only 3 contestants leftPlayers
+get the points from each round for picking who would be eliminated<ul>
+<li>See 18.</li>
+</ul>
+</li>
+<li>All Stages, at any point during the game: At any point during the game,
+players may answer additional bonus questions for bonus marks, for example
+&quot;Who wins immunity this week?&quot;, or &quot;How many people received votes during
+tribal counsel this week?&quot;. Each correct answer to each bonus question is
+awarded 10 points.<ul>
+<li>See 18.</li>
+</ul>
+</li>
+<li>Assign a first place player, a second place player and third place player.
+The first place player gets 60% of the amount of money, the second place
+player gets 30% of the amount of money and the third place person gets 10%
+of the amount of money.<ul>
+<li>Generated in backend upon advancing to the end of the game. This
+information is displayed in the general tab upon completion of the game
+under the &quot;winners&quot; panel.</li>
+</ul>
+</li>
+<li>At any time the admin user should be able to get all the players picks for a
+given week/round. This would normally be done by writing to the internet but
+because of issues with FTP, you can read and write to the C: drive (both
+parts of the project will be tested on the same machine with the same c:
+drive).<ul>
+<li>Backend of overall program.</li>
+</ul>
+</li>
+</ol>
+</div>
+<div class="section" id="id2">
+<h3><a class="toc-backref" href="#id38">3.2.3&nbsp;&nbsp;&nbsp;BlackBerry Client</a></h3>
+<div class="section" id="id3">
+<h4><a class="toc-backref" href="#id39">Setup</a></h4>
+<p>BlackBerry OS version used is <strong>7.1.0</strong>.</p>
+<p>Should you have an older version of BlackBerry OS, see <a class="reference internal" href="#install-blackberry-os-7-1-0-in-eclipse">Install BlackBerry OS
+7.1.0 in Eclipse</a>.</p>
+<ol class="arabic simple">
+<li>Create a Blackberry project called <em>SurvivorPoolClient</em> in Eclipse.</li>
+<li>Delete the <tt class="docutils literal">src/</tt> folder in the project and copy <em>all</em> the files from the
+client jar file.</li>
+<li>Run BlackBerryApp.java</li>
+<li>Map the SD card to the folder that contains <tt class="docutils literal">res/</tt> folder for the
+Administrator client, not the BlackBerry client side. The res folder is found
+in the same folder as the <tt class="docutils literal">Group2Standalone.jar</tt> file. See <a class="reference internal" href="#setup-sd-card-for-blackberry-simulator">Setup SD Card
+for BlackBerry Simulator</a> for more detailed instructions.</li>
+</ol>
+<dl class="docutils">
+<dt><strong>Note:</strong></dt>
+<dd>The season must be started (Administrator side) to be able to log into the
+BlackBerry client (warning shows up).</dd>
+</dl>
+<div class="section" id="setup-sd-card-for-blackberry-simulator">
+<h5><a class="toc-backref" href="#id40">Setup SD Card for BlackBerry Simulator</a></h5>
+<p>To get BlackBerry to share the data files from the Administrator Client, the
+following needs to be completed:</p>
+<ol class="arabic simple">
+<li>In the Blackberry emulator, click on Simulate-&gt;Change SD Card</li>
+<li>Add the folder that contains the folder 'res'</li>
+<li>Click on remount SD Card on Startup.</li>
+<li>Hit the harddrive + button, and data persistence should work.</li>
+</ol>
+</div>
+<div class="section" id="install-blackberry-os-7-1-0-in-eclipse">
+<h5><a class="toc-backref" href="#id41">Install BlackBerry OS 7.1.0 in Eclipse</a></h5>
+<ol class="arabic simple">
+<li>Open Eclipse</li>
+<li>Navigate to Help -&gt; Install New Software</li>
+<li>Select the BlackBerry software repository</li>
+<li>Select BlackBerry OS 7.1.0 from the source list and install</li>
+<li>Restart Eclipse</li>
+</ol>
+</div>
+</div>
+<div class="section" id="id4">
+<h4><a class="toc-backref" href="#id42">Specification Testing</a></h4>
+<ol class="arabic">
+<li><p class="first">Enter his/her userid</p>
+<ul class="simple">
+<li>Starting the app will show the login screen. Enter user id and hit <em>log in</em></li>
+</ul>
+</li>
+<li><p class="first">See the current standings</p>
+<ul class="simple">
+<li>In the main menu, click on <em>view standings</em></li>
+</ul>
+</li>
+<li><p class="first">Pick which contestant will be the ultimate winner</p>
+<ul class="simple">
+<li>In the main menu, click on <em>Make your vote</em>, then <em>Vote for Ultimate</em></li>
+</ul>
+</li>
+<li><p class="first">See which contestants are still remaining, which have been eliminated</p>
+<ul>
+<li><p class="first">In the main menu, click on <em>Make your vote</em>, then any of the options</p>
+<p>The values in the table show all the contestants and if they have been
+casted off or not</p>
+</li>
+</ul>
+</li>
+<li><p class="first">Pick which contestant he/she thinks will be eliminated this week/round</p>
+<ul class="simple">
+<li>In the main menu, click on <em>Make your vote</em>, then <em>Vote for this week</em></li>
+</ul>
+</li>
+<li><p class="first">See the bonus questions</p>
+<ul class="simple">
+<li>In the main menu, click on <em>Bonus Questions</em>. Use the <em>prev</em> and <em>next</em>
+buttons to switch between questions</li>
+</ul>
+</li>
+<li><p class="first">Answer the bonus questions</p>
+<ul>
+<li><p class="first">See 1.6, but either select answer from drop down box, or enter in value in
+the answer text field</p>
+<p>Hit <em>send</em> to submit the answer</p>
+</li>
+</ul>
+</li>
+<li><p class="first">During the final week, pick from the remaining 3 contestants, which
+contestants will win the whole game.</p>
+<ul class="simple">
+<li>See 1.5, except instead of Make your vote, it will say <em>Vote For Finals</em></li>
+</ul>
+</li>
+<li><p class="first">Upload his/her picks to the internet,the very first week, do NOT allow the
+user to upload his/her pick, unless the user picks an overall winner.</p>
+<ul class="simple">
+<li>When the user hits <em>exit</em>, or <em>log out</em> a prompt is given to save. If user
+has not picked an overall winner in the first week, it alerts user to
+select an ultimate winner.</li>
+</ul>
+</li>
+<li><p class="first">When all the players (users) have been added by the administrative user
+and the game is about to start, the blackberry side must download all the
+user IDs to allow the player to logon and somehow store those userids on the
+BlackBerry. There must also be a reset that wipes clean all the userids so
+that it could be reloaded again. This must be persistent (the user should
+only have to load the players once).</p>
+<ul class="simple">
+<li>See <a class="reference internal" href="#setup-sd-card-for-blackberry-simulator">Setup SD Card for BlackBerry Simulator</a>.
+One can log out and log back in as any user.</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="section" id="old-submissions">
+<h2><a class="toc-backref" href="#id43">3.3&nbsp;&nbsp;&nbsp;Old Submissions</a></h2>
+</div>
+<div class="section" id="assignment-3">
+<h2><a class="toc-backref" href="#id44">3.4&nbsp;&nbsp;&nbsp;Assignment 3</a></h2>
+<ol class="arabic simple" start="5">
+<li>Up until the point that the game starts the administrative user should
+be able to change/add/delete contestants, change names, tribes, unique
+ids and pictures. The admin user should always be allowed to change the
+tribe name, even after the game has started.<ul>
+<li>After starting a new season (File &gt; Reset Season), click the Contestant
+tab to open the Contestant section of the admin application. To add a
+contestant, fill out the correct required information (first, last, id,
+picture: click the picture box and find the file),and then hit &quot;add new&quot;.
+Since the season hasn't yet started, you are able to edit an already made
+contestant by selecting the contestant's row in the table, editing the data
+in the label boxes, and hitting &quot;save&quot;. To start the season, go to the
+&quot;general&quot; tab, and hit the &quot;start season button&quot;. Now, all the admin can
+edit is the tribe names, which was always avaliable to change at the bottom
+of the general tab, by just editing the field of your choosing and hitting
+&quot;change tribe name&quot;.</li>
+</ul>
+</li>
+<li>The administrative user should be able to add office workers (players)
+until the game starts. Once the game starts the administrative user can
+not add or delete any more players but he/she can modify players (except
+for the userid)<ul>
+<li>see 5, except instead of the contestant tab, its the player
+tab.</li>
+</ul>
+</li>
+</ol>
+<ol class="arabic simple" start="10">
+<li>The adminstrative user must be able to list all the contestants by
+unique id or first name, or last name or team or by elimination round/order.<ul>
+<li>Follow the same sets as 5 to create contestants. You can sort contestants
+within the table within the contestants tab by clicking the required
+column header</li>
+</ul>
+</li>
+<li>The administrative user must be able to list all the players by first
+name or last name or userid or by total score so far.<ul>
+<li>Follow the same sets as 5 to create players. You can sort players
+within the table within the players tab by clicking the required column
+header</li>
+</ul>
+</li>
+<li>The administrative user must be able to start the game (at this point
+no new players or contestants can be added). At this point the
+administrative user should also enter the amount of money that each player
+is going to pitch in (for example each player might be pitching in 5
+dollars or 1 dollar).<ul>
+<li>As discussed in #5, once the required amount of contestants are added, the
+admin is able to start the season at the bottom of the general tab. After
+pressing the &quot;start season&quot; button, a pop-up asks for your required weekly
+bet amount.</li>
+</ul>
+</li>
+<li>The administrative user must be able display the standings for all
+the players (which player has which score). This could be displayed as
+an HTML web page or within the program.<ul>
+<li>This is included in the requirements for 11.</li>
+</ul>
+</li>
+<li>The administrative user must be able to indicate for each round/week,
+who was eliminated. For testing purposes, the administrative user can do
+this at any time (they don't have to wait till the end of the week)<ul>
+<li>When the administrator wants to cast off a contestant, they should start
+the season, and select the contestant from the contestant tab table list,
+and hit &quot;cast off&quot;. To cancel a cast off, just hit cast off again while
+selecting the contestant.</li>
+</ul>
+</li>
+</ol>
+<ol class="arabic simple" start="28">
+<li>This system must allow the player to: see the current standings (you
+could display this within the blackberry using tables, or you could use
+the browser to view an html page)<ul>
+<li>After logging in, navigate to the standings screen, which will display
+the standings</li>
+</ul>
+</li>
+</ol>
+<ol class="arabic simple" start="31">
+<li>This system must allow the player to: pick which contestant he/she thinks
+will be eliminated this week/round.<ul>
+<li>After logging in, navigate to the pick menu&gt;weekly pick. At the top, the
+user can select from the drop down menu what their selection is from the
+active contestants to vote.</li>
+</ul>
+</li>
+</ol>
+</div>
+<div class="section" id="assignment-2">
+<h2><a class="toc-backref" href="#id45">3.5&nbsp;&nbsp;&nbsp;Assignment 2</a></h2>
+<p>4.a.1 DONE</p>
+<p>4.a.2 DONE</p>
+<p>4.a.3 DONE</p>
+<dl class="docutils">
+<dt>4.a.4</dt>
+<dd><dl class="first last docutils">
+<dt>Admin Data Persistence Example:</dt>
+<dd>When creating a new season in the admin side, data such as the number of
+contestants is generated by the user and output to a data flat file for
+usage later.</dd>
+<dt>BB Data Persistence Example:</dt>
+<dd>The Blackberry log in screen reads input from a flat file, userData. It
+takes data from the file, extracts the userIDs of all users, and then checks
+to see if the inputted log in was successful.</dd>
+</dl>
+</dd>
+</dl>
+<ol class="arabic simple">
+<li>The administrative user must be able to enter the number of Survivor
+contestants this year. This number must be greater than or equal to 6 but
+less than or equal to 15.<ul>
+<li>This is done at the Season Start screen, the data file must NOT be
+present currently for this to show.</li>
+</ul>
+</li>
+<li>The administrative user must be able to add the names, first and last of each
+contestant, unique id for each contestant and the tribe names of each
+contestant. The first and last name must be 1-20 characters long, the unique
+ID must be 2 characters long, where the characters can only be numbers or
+letters, it must be case insensitive. The tribe name must be 1-30 characters
+long.<ul>
+<li>This can be tested by navigating to the &quot;Player&quot; tab, then adding
+information and pressing Save. It is not fully implemented, and bugs exist.</li>
+<li>&quot;Add&quot; will add a clean player to the interface</li>
+<li>&quot;Delete&quot; is _NOT_ functional</li>
+<li>Use &quot;Cast Off&quot; to cast a player off</li>
+</ul>
+</li>
+<li>The administrative user should be able to upload a picture for each user.
+(For testing purposed just use any .gif or .jpg of a head shot)<ul>
+<li>Simply click on the picture to add another picture. These pictures have
+their path saved, but not their data.
+~ Should we be saving the data internally?</li>
+</ul>
+</li>
+<li>The last week of Survivor always has 3 contestants, so the system should
+calculate how many weeks the show will run based on the number of contestant
+and based on the fact that one person will be voted off each week until there
+are 3 left. This indicates how many rounds there will be.<ul>
+<li>This is done in the Season Start screen at the begining of the Admin GUI
+start</li>
+<li>Click on the spinners to change the values, the other will adjust as
+appropriate.</li>
+</ul>
+</li>
+</ol>
+<ol class="arabic simple" start="7">
+<li>When adding a player, the administrative user must enter Unique userid - this
+ID should be the same as the western userid: first initial, last name up to 6
+character and then a number if that first initial and 1-6 characters are
+already used<ul>
+<li>This will be generated based off first name and last name</li>
+<li>Currently we do not display these, but this will be implemented similarly
+to the Contestants for showing the data</li>
+</ul>
+</li>
+<li>When adding a player, the administrative user must enter First name - 1 to 20
+letters<ul>
+<li>Warnings occur if smaller than 1 char, or larger than 20. The player will
+not be added.
+~ this also works for contestants (in a cleaner, prettier fashion)</li>
+</ul>
+</li>
+<li>When adding a player, the administrative user must enter Last name - 1 to 20
+letters<ul>
+<li>Warnings occur if smaller than 1 char, or larger than 20. The player will
+not be added.</li>
+</ul>
+</li>
+<li>The adminstrative user must be able to list all the contestants by unique ID
+or first name, or last name or team or by elimination round/order.<ul>
+<li>Add multiple contestants, click on the table headers. They will sort
+&quot;lowest to highest&quot; according to lexographics or int value.</li>
+</ul>
+</li>
+</ol>
+<ol class="arabic simple" start="27">
+<li>This system must allow the player to: enter his/her userid<ul>
+<li>Test by creating users/players and then entering in the desired userID,
+then press the log in button. Valid userIDs will reach the main menu,
+invalid ones will have their input field cleared for another log in
+attempt.
+Currently taken from the userData flat file.</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+<div class="system-messages section">
+<h1>Docutils System Messages</h1>
+<div class="system-message" id="id46">
+<p class="system-message-title">System Message: ERROR/3 (<tt class="docutils">admin.rst</tt>, line 82); <em><a href="#id47">backlink</a></em></p>
+Unknown target name: &quot;contestant panel&quot;.</div>
+<div class="system-message" id="id48">
+<p class="system-message-title">System Message: ERROR/3 (<tt class="docutils">admin.rst</tt>, line 87); <em><a href="#id49">backlink</a></em></p>
+Unknown target name: &quot;player panel&quot;.</div>
+</div>
+</div>
+</body>
+</html>
