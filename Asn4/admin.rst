@@ -18,7 +18,8 @@ things unique to this panel that you'll notice:
  
 1. A spot for you to increase/decrease the number of weeks in this season.
 
-2. A spot for you to increase/decrease the number of contestants in this season.
+2. A spot for you to increase/decrease the number of contestants in this 
+   season.
 
 3. Two spots for you to enter tribe names.
 
@@ -190,7 +191,7 @@ To add a new bonus question, follow these steps:
 2. Type in your bonus question, and select one of the two bullets: 
    **'Multiple Choice'** or **'Short Answer'**.
 	
-.. image:: img/Usermanual/BonusPanel/DataEntryArea.NewQuestion.png
+.. image:: img/UserManual/BonusPanel/DataEntryArea.NewQuestion.png
 	
 3. Click **'Next'** to continue.
 	
