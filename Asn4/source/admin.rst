@@ -8,6 +8,9 @@ Getting Started
 Creating A Season
 =================
 
+.. index::
+   single: Create New Season
+
 Create Season Panel
 +++++++++++++++++++
 
@@ -25,6 +28,9 @@ things unique to this panel that you'll notice:
 3. Two spots for you to enter tribe names.
 
 4. A button at the bottom of the panel that says "Create Season".
+
+.. index:: 
+   single: Number of Weeks; Number of Contestants
 
 Modifying the number of Weeks/Contestants
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -44,6 +50,9 @@ Note: These fields abide by the standard mechanics of the game of Survivor.  You
 can have no more than 15 contestants, and thus 12 weeks, and no less than 6 
 contestants (3 weeks). 
 
+.. index::
+   single: Initial Tribe Names
+
 Entering Tribe Names
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -60,6 +69,8 @@ if you are going for a more personalized game, remember:
 
 Create Season
 ^^^^^^^^^^^^^^
+.. index::
+   single: Create Season Button
 
 When you press this button, it will check the tribe names to make sure the guide
 lines indicated above have been followed properly. If they have not, the panel 
@@ -69,6 +80,9 @@ to the `General Panel`_.
 General Panel
 ~~~~~~~~~~~~~~
 
+.. index::
+   single: General Panel
+
 .. image:: img/UserManual//GeneralPanel/GeneralPanel.png
 
 At first glance, this panel will look very busy.  We will explain this panel 
@@ -76,6 +90,9 @@ from the top down.
 
 Tabs
 ======
+
+.. index::
+   single: Tabs
 
 There are four tabs at the top of the panel. Ignoring the General tab (this is 
 where you currently are), we have:
@@ -100,6 +117,9 @@ where you currently are), we have:
 
 Time
 =====
+
+.. index::
+   single: Time Buttons; Start Season; Advance Week
 
 There are two buttons in this area: Start Season and Advance Week (week number). 
 
@@ -142,6 +162,9 @@ the final week of the competition.
 Tribes
 ========
 
+.. index::
+   single: Save Tribes
+
 .. image:: img/UserManual/GeneralPanel/TribesArea.png
 
 
@@ -149,10 +172,13 @@ Here you will see your two tribes names and a "Save Tribes" button.  It is very
 straight forward.  If it becomes necessary to change a tribe name, you can do so
 in the appropriate field (note that the restrictions applied to tribe names on 
 the `Create Season Panel`_ will still apply on the `General Panel`_) and press 
-*Save Tribes*. 
+:index:`Save Tribes`. 
 
 History
 =========
+
+.. index::
+   single: History; Game History
 
 .. image:: img/UserManual/GeneralPanel/HistoryArea.png
 
@@ -187,6 +213,9 @@ Contestant Panel
 
 Bonus Panel
 ~~~~~~~~~~~
+
+.. index::
+   single: Bonus Panel; Bonus
 
 The Bonus panel can be found by clicking the **'Bonus'** tab after the season 
 has been created.
