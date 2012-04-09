@@ -179,6 +179,123 @@ week.
 
 .. image:: img/UserManual/GeneralPanel/HistoryArea.SeasonStarted.png
 
+Contestant Panel
+~~~~~~~~~~~~~~~~
+
+The Contestant panel can be found by clicking the **'Contestant'** tab after the season 
+has been created.
+
+.. image:: img/UserManual/ContestantPanel.png
+
+This is where the administrator can add, delete, and modify contestant data before the
+season has started, as well as cast off contestants and select winners during the season.
+
+Adding a Contestant
+===================
+
+To add a new contestant, follow these steps:
+
+1. Press the "New" button located at the bottom of the panel to clear the contestant fields.
+
+2. Input the contestant's first name, last name, picture and desired contestant id into the 
+textfields.
+
+3. Select the contestant's required tribe from the drop down box to the right of the "Tribe" 
+label.
+
+4. Press the "Add" button.
+
+5. To add the next contestant, continue on by pressing "New" once again and repeat. You will 
+only be able to add until the cap number of contestants has been reached.
+
+Deleting a Contestant
+=====================
+
+To delete an existing contestant, follow these steps:
+
+1. Select the contestant by clicking on their row within the contestant table located at the
+bottom of the panel. This will fill their data into the upper field areas.
+
+2. Press the "Delete" button located at the bottom of the panel beside the "New" button.
+
+Modifying a Contestant
+======================
+
+To modify an existing contestant, follow these steps:
+
+1. Select the contestant by clicking on their row within the contestant table located at the
+bottom of the panel. This will fill their data into the upper field areas.
+
+2. Change the desired contestant data by refilling the textfields as needed.
+
+3. If the new data meets the proper requirements, pressing the "Save" button which is located
+where the "Add" button once was will save the new changes into the contestant table. 
+
+Sorting the Contestant Table
+============================
+
+To sort the contestant table, simply click on the required table heading located at the top 
+of the contestant table. 
+
+I.e. If the table needs to be sorted by first name, click the "First Name" heading.
+
+.. image:: img/UserManual/ContestantPanel.Filled.png
+
+
+
+
+Player Panel
+~~~~~~~~~~~~
+
+The Player panel can be found by clicking the **'Player'** tab after the season 
+has been created.
+
+.. image:: img/UserManual/PlayerPanel/PlayerPanel.png
+
+This is where the administrator can add, delete, and modify player data before the start
+of the season, as well as view player progress and manually select player picks during the season.
+
+Adding a Player
+===================
+
+To add a new player, follow these steps:
+
+1. Press the "New" button located at the bottom of the panel to clear the player fields.
+
+2. Input the player's first name, last name, and user id into the textfields.
+
+3. Press the "Add" button.
+
+4. To add the next player, continue on by pressing "New" once again and repeat.
+
+Deleting a Player
+=====================
+
+To delete an existing player, follow these steps:
+
+1. Select the player by clicking on their row within the player table located at the
+bottom of the panel. This will fill their data into the upper field areas.
+
+2. Press the "Delete" button located at the bottom of the panel beside the "New" button.
+
+Modifying a Player
+======================
+
+To modify an existing player, follow these steps:
+
+1. Select the player by clicking on their row within the player table located at the
+bottom of the panel. This will fill their data into the upper field areas.
+
+2. Change the desired player data by refilling the textfields as needed.
+
+3. If the new data meets the proper requirements, pressing the "Save" button which is located
+where the "Add" button once was will save the new changes into the player table. 
+
+.. image:: img/UserManual/PlayerPanel/PlayerPanel.Filled.png
+
+
+
+
 Bonus Panel
 ~~~~~~~~~~~
 
