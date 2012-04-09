@@ -6,7 +6,6 @@ Log In
 ~~~~~~~~~~
 
 .. figure:: img/Client/start.png
-	:scale: 200%
 
 	The Log In Screen
 
@@ -32,7 +31,6 @@ Main Screen
 ~~~~~~~~~~~~
 
 .. figure:: img/Client/main-menu.png
-	:scale: 200%
 
 	The Main Screen
 
@@ -54,7 +52,6 @@ Standings Screen
 .. _standings:
 
 .. figure:: img/Client/standings.png
-	:scale: 200%
 
 	Player standings
 
@@ -70,7 +67,6 @@ Picking contestant
 This button is *not visible* if the season has finished.
 
 .. figure:: img/Client/vote-menu.png
-	:scale: 200%
 
 	Vote Menu
 
@@ -85,7 +81,6 @@ is going to become the ultimate winner.
 
 
 .. figure:: img/Client/vote-screen.png
-	:scale: 200%
 
 	Vote Screen
 
@@ -105,7 +100,6 @@ Bonus
 Only *visible* if bonus questions have been created by the administrator.
 
 .. figure:: img/Client/bonus.png
-	:scale: 200%
 
 	Bonus Question screen
 
