@@ -19,4 +19,6 @@ Survivor Pool Manual
 
 .. include:: client.rst
 
+.. include:: toolbar.rst
+
 
